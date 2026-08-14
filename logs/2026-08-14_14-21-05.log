@@ -1,0 +1,33 @@
+[2026-08-14 14:21:05.644] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-14 14:21:05.645] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-14 14:21:05.645] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 2 bac\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-14_14-21-05.log
+[2026-08-14 14:21:05.645] [Xeno] [debug] Client Checker thread: 0x2b5e97ea80
+[2026-08-14 14:21:05.646] [Xeno] [debug] Xeno Caching thread: 0x2b5e97ea70
+[2026-08-14 14:21:05.646] [Xeno] [debug] WebSockets Cleaner thread: 0x2b5e97ea60
+[2026-08-14 14:21:05.646] [Xeno] [debug] Xeno Server thread: 0x2b5e97ea50
+[2026-08-14 14:21:05.646] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-14 14:21:05.646] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-14 14:21:05.646] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-14 14:21:05.662] [Xeno] [info] Creating new RBXClient: 39824
+[2026-08-14 14:21:05.662] [RBXClient] [info] [39824]: Initializing...
+[2026-08-14 14:21:05.662] [RBXClient] [info] [39824]: Version: version-ddf602d9cfe44005
+[2026-08-14 14:21:05.662] [Xeno] [debug] Created RBXClient instance @0x1b60d9ce5d0
+[2026-08-14 14:21:05.662] [Xeno] [info] Successfully created RBXClient: 39824
+[2026-08-14 14:21:05.662] [RBXClient] [trace] [39824]: Attempting to retrieve RBXClient data...
+[2026-08-14 14:21:05.733] [RBXClient] [trace] [39824]: Successfully retrieved RBXClient data (Primary)
+[2026-08-14 14:21:05.733] [RBXClient] [trace] [39824]: Offsets for version "version-ddf602d9cfe44005" points to version "version-2269b67864ab4ad4" with same offsets
+[2026-08-14 14:21:05.734] [RBXClient] [debug] [39824]: Fetching DataModel...
+[2026-08-14 14:21:05.886] [RBXClient] [debug] [39824]: 	String: 0x2c4483afb90
+[2026-08-14 14:21:05.886] [RBXClient] [debug] [39824]: 	RenderView: 0x2c43d203880
+[2026-08-14 14:21:06.088] [RBXClient] [debug] [39824]: 3314 candidates found for the instruction
+[2026-08-14 14:21:06.091] [RBXClient] [debug] [39824]:  Instruction address: 0x2c3296dc0ba
+[2026-08-14 14:21:06.091] [RBXClient] [debug] [39824]: Bytecode Patch Watcher thread: 0x2b62b7f470
+[2026-08-14 14:21:06.093] [RBXClient] [debug] [39824]: DataModel (Ugc): 0x2c458a54a50
+[2026-08-14 14:21:06.094] [RBXClient] [debug] [39824]: LocalPlayer: 0x2c438cec080
+[2026-08-14 14:21:06.094] [RBXClient] [debug] [acgplayerfan12121 (39824)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-14 14:21:06.095] [RBXClient] [trace] [acgplayerfan12121 (39824)]: Attaching in-game using translation module.
+[2026-08-14 14:21:06.095] [Xeno] [debug] Patched translation module @0x2c44eb41740
+[2026-08-14 14:21:06.266] [RBXClient] [trace] [acgplayerfan12121 (39824)]: Intercepted translation module @0x2c44eb41740
+[2026-08-14 14:21:06.278] [RBXClient] [trace] [acgplayerfan12121 (39824)][::CRefresh]: Client DataModel refreshed
+[2026-08-14 14:21:06.287] [RBXClient] [trace] [acgplayerfan12121 (39824)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-08-14 14:21:06.292] [RBXClient] [trace] [acgplayerfan12121 (39824)]: Attach ping received from client "acgplayerfan12121", This indicates everything was successful.

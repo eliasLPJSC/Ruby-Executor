@@ -1968,3 +1968,63 @@
 2026-08-14 07:27:40.028: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-08-14 07:27:40.028: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-08-14 07:32:53.907: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 08:05:59.937: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\Ruby Exec 1  backup\Ruby Exec 1\bin\x64\Debug\net10.0-windows\Ruby Exec 1.exe.WebView2\EBWebView\Default
+2026-08-14 08:05:59.937: [INFO] Profiles total count: 1
+2026-08-14 08:05:59.937: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\Ruby Exec 1  backup\Ruby Exec 1\bin\x64\Debug\net10.0-windows\Ruby Exec 1.exe.WebView2\EBWebView\Default lastActive=2026-08-14T07:29:17.386Z
+2026-08-14 08:05:59.937: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\Ruby Exec 1  backup\Ruby Exec 1\bin\x64\Debug\net10.0-windows\Ruby Exec 1.exe.WebView2\EBWebView\Default
+2026-08-14 08:05:59.937: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\Ruby Exec 1  backup\Ruby Exec 1\bin\x64\Debug\net10.0-windows\Ruby Exec 1.exe.WebView2\EBWebView\Default lastActive=2026-08-14T07:29:17.386Z
+2026-08-14 08:05:59.937: [INFO] OnDoneLoading sync enabled: 0
+2026-08-14 08:05:59.937: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-14 08:05:59.937: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-14 08:05:59.937: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 08:06:06.132: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 12:16:47.782: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\Ruby Exec 2 bac\Ruby Exec 1\bin\x64\Debug\net10.0-windows\Ruby Exec 1.exe.WebView2\EBWebView\Default
+2026-08-14 12:16:47.782: [INFO] Profiles total count: 1
+2026-08-14 12:16:47.784: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\Ruby Exec 2 bac\Ruby Exec 1\bin\x64\Debug\net10.0-windows\Ruby Exec 1.exe.WebView2\EBWebView\Default lastActive=2026-08-14T12:14:20.114Z
+2026-08-14 12:16:47.784: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\Ruby Exec 2 bac\Ruby Exec 1\bin\x64\Debug\net10.0-windows\Ruby Exec 1.exe.WebView2\EBWebView\Default
+2026-08-14 12:16:47.784: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\Ruby Exec 2 bac\Ruby Exec 1\bin\x64\Debug\net10.0-windows\Ruby Exec 1.exe.WebView2\EBWebView\Default lastActive=2026-08-14T12:14:20.114Z
+2026-08-14 12:16:47.784: [INFO] OnDoneLoading sync enabled: 0
+2026-08-14 12:16:47.784: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-14 12:16:47.784: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-14 12:16:47.784: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 12:17:00.196: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 12:17:21.961: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\Ruby Exec 2 bac\Ruby Exec 1\bin\x64\Debug\net10.0-windows\Ruby Exec 1.exe.WebView2\EBWebView\Default
+2026-08-14 12:17:21.961: [INFO] Profiles total count: 1
+2026-08-14 12:17:21.963: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\Ruby Exec 2 bac\Ruby Exec 1\bin\x64\Debug\net10.0-windows\Ruby Exec 1.exe.WebView2\EBWebView\Default lastActive=2026-08-14T12:14:20.114Z
+2026-08-14 12:17:21.963: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\Ruby Exec 2 bac\Ruby Exec 1\bin\x64\Debug\net10.0-windows\Ruby Exec 1.exe.WebView2\EBWebView\Default
+2026-08-14 12:17:21.963: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\Ruby Exec 2 bac\Ruby Exec 1\bin\x64\Debug\net10.0-windows\Ruby Exec 1.exe.WebView2\EBWebView\Default lastActive=2026-08-14T12:14:20.114Z
+2026-08-14 12:17:21.963: [INFO] OnDoneLoading sync enabled: 0
+2026-08-14 12:17:21.963: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-14 12:17:21.963: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-14 12:17:21.963: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 12:17:28.476: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 12:18:07.056: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\Ruby Exec 2 bac\Ruby Exec 1\bin\x64\Debug\net10.0-windows\Ruby Exec 1.exe.WebView2\EBWebView\Default
+2026-08-14 12:18:07.056: [INFO] Profiles total count: 1
+2026-08-14 12:18:07.056: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\Ruby Exec 2 bac\Ruby Exec 1\bin\x64\Debug\net10.0-windows\Ruby Exec 1.exe.WebView2\EBWebView\Default lastActive=2026-08-14T12:14:20.114Z
+2026-08-14 12:18:07.056: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\Ruby Exec 2 bac\Ruby Exec 1\bin\x64\Debug\net10.0-windows\Ruby Exec 1.exe.WebView2\EBWebView\Default
+2026-08-14 12:18:07.056: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\Ruby Exec 2 bac\Ruby Exec 1\bin\x64\Debug\net10.0-windows\Ruby Exec 1.exe.WebView2\EBWebView\Default lastActive=2026-08-14T12:14:20.114Z
+2026-08-14 12:18:07.056: [INFO] OnDoneLoading sync enabled: 0
+2026-08-14 12:18:07.056: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-14 12:18:07.056: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-14 12:18:07.056: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 12:19:47.182: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 12:36:31.620: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\Ruby Exec 2 bac\Ruby Exec 1\bin\x64\Debug\net10.0-windows\Ruby Exec 1.exe.WebView2\EBWebView\Default
+2026-08-14 12:36:31.620: [INFO] Profiles total count: 1
+2026-08-14 12:36:31.620: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\Ruby Exec 2 bac\Ruby Exec 1\bin\x64\Debug\net10.0-windows\Ruby Exec 1.exe.WebView2\EBWebView\Default lastActive=2026-08-14T12:19:23.828Z
+2026-08-14 12:36:31.620: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\Ruby Exec 2 bac\Ruby Exec 1\bin\x64\Debug\net10.0-windows\Ruby Exec 1.exe.WebView2\EBWebView\Default
+2026-08-14 12:36:31.620: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\Ruby Exec 2 bac\Ruby Exec 1\bin\x64\Debug\net10.0-windows\Ruby Exec 1.exe.WebView2\EBWebView\Default lastActive=2026-08-14T12:19:23.828Z
+2026-08-14 12:36:31.620: [INFO] OnDoneLoading sync enabled: 0
+2026-08-14 12:36:31.620: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-14 12:36:31.620: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-14 12:36:31.620: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 12:40:01.978: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 12:48:40.450: [INFO] CurrentProfilePath: C:\Users\seif9\source\repos\Ruby Exec 2 bac\Ruby Exec 1\bin\x64\Debug\net10.0-windows\Ruby Exec 1.exe.WebView2\EBWebView\Default
+2026-08-14 12:48:40.450: [INFO] Profiles total count: 1
+2026-08-14 12:48:40.452: [INFO] Profile: name=Profil 1 path=C:\Users\seif9\source\repos\Ruby Exec 2 bac\Ruby Exec 1\bin\x64\Debug\net10.0-windows\Ruby Exec 1.exe.WebView2\EBWebView\Default lastActive=2026-08-14T12:19:23.828Z
+2026-08-14 12:48:40.452: [INFO] LastUsedProfileDir: C:\Users\seif9\source\repos\Ruby Exec 2 bac\Ruby Exec 1\bin\x64\Debug\net10.0-windows\Ruby Exec 1.exe.WebView2\EBWebView\Default
+2026-08-14 12:48:40.452: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\seif9\source\repos\Ruby Exec 2 bac\Ruby Exec 1\bin\x64\Debug\net10.0-windows\Ruby Exec 1.exe.WebView2\EBWebView\Default lastActive=2026-08-14T12:19:23.828Z
+2026-08-14 12:48:40.452: [INFO] OnDoneLoading sync enabled: 0
+2026-08-14 12:48:40.452: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-14 12:48:40.452: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-14 12:48:40.452: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-14 12:50:19.160: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

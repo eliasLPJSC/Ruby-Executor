@@ -1,0 +1,33 @@
+[2026-08-14 14:14:17.925] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-14 14:14:17.925] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-14 14:14:17.925] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 2 bac\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-14_14-14-17.log
+[2026-08-14 14:14:17.926] [Xeno] [debug] Client Checker thread: 0xc0c213ea80
+[2026-08-14 14:14:17.926] [Xeno] [debug] Xeno Caching thread: 0xc0c213ea70
+[2026-08-14 14:14:17.926] [Xeno] [debug] WebSockets Cleaner thread: 0xc0c213ea60
+[2026-08-14 14:14:17.927] [Xeno] [debug] Xeno Server thread: 0xc0c213ea50
+[2026-08-14 14:14:17.927] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-14 14:14:17.927] [Cache] [info] Reattaching to cached client PID: 4264
+[2026-08-14 14:14:17.927] [Cache] [info] Loaded existing cache: 1 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 1 RBXClientInfos
+[2026-08-14 14:14:17.928] [Xeno] [info] Creating new RBXClient: 4264
+[2026-08-14 14:14:17.928] [RBXClient] [info] [4264]: Initializing...
+[2026-08-14 14:14:17.928] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-14 14:14:17.928] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-14 14:14:17.928] [RBXClient] [info] [4264]: Version: version-ddf602d9cfe44005
+[2026-08-14 14:14:17.928] [Xeno] [debug] Created RBXClient instance @0x21215894680
+[2026-08-14 14:14:17.928] [Xeno] [info] Successfully created RBXClient: 4264
+[2026-08-14 14:14:17.928] [RBXClient] [trace] [4264]: Attempting to retrieve RBXClient data...
+[2026-08-14 14:14:17.974] [RBXClient] [trace] [4264]: Successfully retrieved RBXClient data (Primary)
+[2026-08-14 14:14:17.975] [RBXClient] [trace] [4264]: Offsets for version "version-ddf602d9cfe44005" points to version "version-2269b67864ab4ad4" with same offsets
+[2026-08-14 14:14:17.975] [Cache] [trace] [4264]: Client was previously activated and handled successfully
+[2026-08-14 14:14:17.975] [RBXClient] [info] [4264]: RenderView retrieved from Cache: 0x2930b664080
+[2026-08-14 14:14:18.132] [RBXClient] [debug] [4264]: 1944 candidates found for the instruction
+[2026-08-14 14:14:18.134] [RBXClient] [debug] [4264]:  Instruction address: 0x29375acc0ba
+[2026-08-14 14:14:18.134] [RBXClient] [debug] [4264]: Bytecode Patch Watcher thread: 0xc0c87bf300
+[2026-08-14 14:14:18.136] [RBXClient] [debug] [4264]: DataModel (Ugc): 0x293076a6250
+[2026-08-14 14:14:18.137] [RBXClient] [debug] [4264]: LocalPlayer: 0x29319aca880
+[2026-08-14 14:14:18.137] [RBXClient] [debug] [acgplayerfan12121 (4264)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-14 14:14:18.137] [RBXClient] [info] [acgplayerfan12121 (4264)]: Client was already attached, handling important core functions for the client :D
+[2026-08-14 14:14:19.443] [Execution] [error] [4264]: Failed to compile (this is a problem with your script): :1: Expected identifier when parsing method name, got '//'
+[2026-08-14 14:14:21.010] [Execution] [error] [4264]: Failed to compile (this is a problem with your script): :1: Incomplete statement: expected assignment or a function call
+[2026-08-14 14:14:21.304] [Execution] [error] [4264]: Failed to compile (this is a problem with your script): :1: Incomplete statement: expected assignment or a function call
+[2026-08-14 14:14:21.488] [Execution] [error] [4264]: Failed to compile (this is a problem with your script): :1: Incomplete statement: expected assignment or a function call

@@ -1,0 +1,29 @@
+[2026-08-14 14:16:50.655] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-14 14:16:50.655] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-14 14:16:50.655] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 2 bac\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-14_14-16-50.log
+[2026-08-14 14:16:50.659] [Xeno] [debug] Client Checker thread: 0x8f1023e840
+[2026-08-14 14:16:50.659] [Xeno] [debug] Xeno Caching thread: 0x8f1023e830
+[2026-08-14 14:16:50.659] [Xeno] [debug] WebSockets Cleaner thread: 0x8f1023e820
+[2026-08-14 14:16:50.660] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-14 14:16:50.660] [Xeno] [debug] Xeno Server thread: 0x8f1023e810
+[2026-08-14 14:16:50.660] [Cache] [info] Reattaching to cached client PID: 4264
+[2026-08-14 14:16:50.660] [Cache] [info] Loaded existing cache: 1 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 1 RBXClientInfos
+[2026-08-14 14:16:50.660] [Xeno] [info] Creating new RBXClient: 4264
+[2026-08-14 14:16:50.660] [RBXClient] [info] [4264]: Initializing...
+[2026-08-14 14:16:50.661] [RBXClient] [info] [4264]: Version: version-ddf602d9cfe44005
+[2026-08-14 14:16:50.661] [Xeno] [debug] Created RBXClient instance @0x1a595978790
+[2026-08-14 14:16:50.661] [Xeno] [info] Successfully created RBXClient: 4264
+[2026-08-14 14:16:50.661] [RBXClient] [trace] [4264]: Attempting to retrieve RBXClient data...
+[2026-08-14 14:16:50.661] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-14 14:16:50.661] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-14 14:16:50.713] [RBXClient] [trace] [4264]: Successfully retrieved RBXClient data (Primary)
+[2026-08-14 14:16:50.713] [RBXClient] [trace] [4264]: Offsets for version "version-ddf602d9cfe44005" points to version "version-2269b67864ab4ad4" with same offsets
+[2026-08-14 14:16:50.714] [Cache] [trace] [4264]: Client was previously activated and handled successfully
+[2026-08-14 14:16:50.714] [RBXClient] [info] [4264]: RenderView retrieved from Cache: 0x2930b664080
+[2026-08-14 14:16:50.901] [RBXClient] [debug] [4264]: 2056 candidates found for the instruction
+[2026-08-14 14:16:50.903] [RBXClient] [debug] [4264]:  Instruction address: 0x29375acc0ba
+[2026-08-14 14:16:50.903] [RBXClient] [debug] [4264]: Bytecode Patch Watcher thread: 0x8f11d3f3b0
+[2026-08-14 14:16:50.904] [RBXClient] [debug] [4264]: DataModel (Ugc): 0x293076a6250
+[2026-08-14 14:16:50.906] [RBXClient] [debug] [4264]: LocalPlayer: 0x29319aca880
+[2026-08-14 14:16:50.906] [RBXClient] [debug] [acgplayerfan12121 (4264)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-14 14:16:50.906] [RBXClient] [info] [acgplayerfan12121 (4264)]: Client was already attached, handling important core functions for the client :D
