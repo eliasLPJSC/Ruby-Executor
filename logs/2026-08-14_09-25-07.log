@@ -1,0 +1,28 @@
+[2026-08-14 09:25:07.609] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-14 09:25:07.609] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-14 09:25:07.609] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1  backup\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-14_09-25-07.log
+[2026-08-14 09:25:07.614] [Xeno] [debug] Client Checker thread: 0x177333ede0
+[2026-08-14 09:25:07.614] [Xeno] [debug] Xeno Caching thread: 0x177333edd0
+[2026-08-14 09:25:07.615] [Xeno] [debug] WebSockets Cleaner thread: 0x177333edc0
+[2026-08-14 09:25:07.615] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-14 09:25:07.615] [Xeno] [debug] Xeno Server thread: 0x177333edb0
+[2026-08-14 09:25:07.616] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-14 09:25:07.616] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-14 09:25:07.624] [Xeno] [info] Creating new RBXClient: 15776
+[2026-08-14 09:25:07.624] [RBXClient] [info] [15776]: Initializing...
+[2026-08-14 09:25:07.625] [RBXClient] [info] [15776]: Version: version-ddf602d9cfe44005
+[2026-08-14 09:25:07.625] [Xeno] [debug] Created RBXClient instance @0x1b1958f4c90
+[2026-08-14 09:25:07.625] [Xeno] [info] Successfully created RBXClient: 15776
+[2026-08-14 09:25:07.625] [RBXClient] [trace] [15776]: Attempting to retrieve RBXClient data...
+[2026-08-14 09:25:07.678] [RBXClient] [trace] [15776]: Successfully retrieved RBXClient data (Primary)
+[2026-08-14 09:25:07.678] [RBXClient] [trace] [15776]: Offsets for version "version-ddf602d9cfe44005" points to version "version-2269b67864ab4ad4" with same offsets
+[2026-08-14 09:25:07.679] [RBXClient] [info] [15776]: Waiting for Client Window
+[2026-08-14 09:25:09.982] [Execution] [error] [15776]: DataModel address is invalid
+[2026-08-14 09:25:10.142] [Execution] [error] [15776]: DataModel address is invalid
+[2026-08-14 09:25:10.296] [Execution] [error] [15776]: DataModel address is invalid
+[2026-08-14 09:25:11.645] [Execution] [error] [15776]: DataModel address is invalid
+[2026-08-14 09:25:11.798] [Execution] [error] [15776]: DataModel address is invalid
+[2026-08-14 09:25:11.952] [Execution] [error] [15776]: DataModel address is invalid
+[2026-08-14 09:25:17.693] [RBXClient] [critical] [15776]: Timeout (10s) exceeded while waiting for window
+[2026-08-14 09:25:17.743] [RBXClient] [trace] [[!] Failed (15776)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-08-14 09:25:17.743] [Xeno] [info] Removed RBXClient: 15776

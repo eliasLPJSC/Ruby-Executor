@@ -1,0 +1,55 @@
+[2026-08-10 22:04:09.189] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-10 22:04:09.189] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-10 22:04:09.189] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-10_22-04-09.log
+[2026-08-10 22:04:09.192] [Xeno] [debug] Client Checker thread: 0x2d53dfd630
+[2026-08-10 22:04:09.192] [Xeno] [debug] Xeno Caching thread: 0x2d53dfd620
+[2026-08-10 22:04:09.193] [Xeno] [debug] WebSockets Cleaner thread: 0x2d53dfd610
+[2026-08-10 22:04:09.193] [Xeno] [debug] Xeno Server thread: 0x2d53dfd600
+[2026-08-10 22:04:09.193] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-10 22:04:09.194] [Cache] [info] Reattaching to cached client PID: 5152
+[2026-08-10 22:04:09.194] [Cache] [info] Loaded existing cache: 1 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 1 RBXClientInfos
+[2026-08-10 22:04:09.194] [Xeno] [info] Creating new RBXClient: 5152
+[2026-08-10 22:04:09.194] [RBXClient] [info] [5152]: Initializing...
+[2026-08-10 22:04:09.195] [RBXClient] [info] [5152]: Version: version-d584fb6c717a43d9
+[2026-08-10 22:04:09.195] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-10 22:04:09.195] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-10 22:04:09.195] [Xeno] [debug] Created RBXClient instance @0x16615786b80
+[2026-08-10 22:04:09.195] [Xeno] [info] Successfully created RBXClient: 5152
+[2026-08-10 22:04:09.195] [RBXClient] [trace] [5152]: Attempting to retrieve RBXClient data...
+[2026-08-10 22:04:09.253] [RBXClient] [trace] [5152]: Successfully retrieved RBXClient data (Primary)
+[2026-08-10 22:04:09.254] [Cache] [trace] [5152]: Client was previously activated and handled successfully
+[2026-08-10 22:04:09.254] [RBXClient] [info] [5152]: RenderView retrieved from Cache: 0x1ed44e41880
+[2026-08-10 22:04:11.135] [RBXClient] [debug] [5152]: 2515 candidates found for the instruction
+[2026-08-10 22:04:13.812] [Execution] [error] [5152]: Could not find a CoreModule; Client is not attached
+[2026-08-10 22:04:14.313] [Execution] [error] [5152]: Could not find a CoreModule; Client is not attached
+[2026-08-10 22:04:14.314] [Execution] [error] [5152]: Could not find a CoreModule; Client is not attached
+[2026-08-10 22:04:14.316] [RBXClient] [debug] [5152]:  Instruction address: 0x1ec3345c40a
+[2026-08-10 22:04:14.316] [RBXClient] [debug] [5152]: Bytecode Patch Watcher thread: 0x2d5657f7f0
+[2026-08-10 22:04:14.320] [RBXClient] [debug] [5152]: DataModel (Ugc): 0x1ede7a40e48
+[2026-08-10 22:04:14.322] [RBXClient] [debug] [5152]: LocalPlayer: 0x1ed71c3d880
+[2026-08-10 22:04:14.322] [RBXClient] [debug] [acgplayerfan12121 (5152)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-10 22:04:14.324] [RBXClient] [trace] [acgplayerfan12121 (5152)]: Attaching in-game using translation module.
+[2026-08-10 22:04:14.325] [Xeno] [debug] Patched translation module @0x1ed665f8c80
+[2026-08-10 22:04:14.555] [RBXClient] [trace] [acgplayerfan12121 (5152)]: Intercepted translation module @0x1ed665f8c80
+[2026-08-10 22:04:15.100] [RBXClient] [warning] [acgplayerfan12121 (5152)]: Xeno was fast enough to attach using in menu method as the user was joining the game.
+[2026-08-10 22:04:18.554] [Execution] [error] [5152]: Could not find a CoreModule
+[2026-08-10 22:04:18.698] [Execution] [error] [5152]: Could not find a CoreModule
+[2026-08-10 22:04:18.711] [Execution] [error] [5152]: Could not find a CoreModule
+[2026-08-10 22:04:18.849] [Execution] [error] [5152]: Could not find a CoreModule
+[2026-08-10 22:04:18.850] [Execution] [error] [5152]: Could not find a CoreModule
+[2026-08-10 22:04:18.866] [Execution] [error] [5152]: Could not find a CoreModule
+[2026-08-10 22:04:18.999] [Execution] [error] [5152]: Could not find a CoreModule
+[2026-08-10 22:04:18.999] [Execution] [error] [5152]: Could not find a CoreModule
+[2026-08-10 22:04:19.000] [Execution] [error] [5152]: Could not find a CoreModule
+[2026-08-10 22:04:19.161] [Execution] [error] [5152]: Could not find a CoreModule
+[2026-08-10 22:04:19.162] [Execution] [error] [5152]: Could not find a CoreModule
+[2026-08-10 22:04:19.170] [Execution] [error] [5152]: Could not find a CoreModule
+[2026-08-10 22:04:19.301] [Execution] [error] [5152]: Could not find a CoreModule
+[2026-08-10 22:04:19.333] [Execution] [error] [5152]: Could not find a CoreModule
+[2026-08-10 22:04:19.472] [Execution] [error] [5152]: Could not find a CoreModule
+[2026-08-10 22:04:19.517] [RBXClient] [trace] [acgplayerfan12121 (5152)][::BytecodePatchWatcherT]: Threshold reached. Workers failed to call restore (Automatically restoring to prevent crash)
+[2026-08-10 22:04:37.394] [Execution] [error] [5152]: Could not find a CoreModule
+[2026-08-10 22:04:37.549] [Execution] [error] [5152]: Could not find a CoreModule
+[2026-08-10 22:04:37.706] [Execution] [error] [5152]: Could not find a CoreModule
+[2026-08-10 22:04:41.295] [RBXClient] [trace] [acgplayerfan12121 (5152)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-08-10 22:04:41.296] [Xeno] [info] Removed RBXClient: 5152

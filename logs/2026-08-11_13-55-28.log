@@ -1,0 +1,23 @@
+[2026-08-11 13:55:28.398] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-11 13:55:28.398] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-11 13:55:28.398] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-11_13-55-28.log
+[2026-08-11 13:55:28.399] [Xeno] [debug] Client Checker thread: 0x9cd997d250
+[2026-08-11 13:55:28.399] [Xeno] [debug] Xeno Caching thread: 0x9cd997d240
+[2026-08-11 13:55:28.399] [Xeno] [debug] WebSockets Cleaner thread: 0x9cd997d230
+[2026-08-11 13:55:28.399] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-11 13:55:28.399] [Xeno] [debug] Xeno Server thread: 0x9cd997d220
+[2026-08-11 13:55:28.399] [Cache] [info] Reattaching to cached client PID: 10596
+[2026-08-11 13:55:28.399] [Cache] [info] Loaded existing cache: 1 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 0 RBXClientInfos
+[2026-08-11 13:55:28.399] [Xeno] [info] Creating new RBXClient: 10596
+[2026-08-11 13:55:28.399] [RBXClient] [info] [10596]: Initializing...
+[2026-08-11 13:55:28.399] [RBXClient] [info] [10596]: Version: version-d584fb6c717a43d9
+[2026-08-11 13:55:28.400] [Xeno] [debug] Created RBXClient instance @0x291957aadd0
+[2026-08-11 13:55:28.400] [Xeno] [info] Successfully created RBXClient: 10596
+[2026-08-11 13:55:28.400] [RBXClient] [trace] [10596]: Attempting to retrieve RBXClient data...
+[2026-08-11 13:55:28.400] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-11 13:55:28.400] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-11 13:55:28.447] [RBXClient] [trace] [10596]: Successfully retrieved RBXClient data (Primary)
+[2026-08-11 13:55:28.448] [RBXClient] [info] [10596]: Waiting for Client Window
+[2026-08-11 13:55:32.489] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 13:55:32.646] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 13:55:32.798] [Execution] [error] [10596]: DataModel address is invalid

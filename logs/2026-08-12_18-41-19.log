@@ -1,0 +1,34 @@
+[2026-08-12 18:41:19.115] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-12 18:41:19.115] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-12 18:41:19.116] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-12_18-41-19.log
+[2026-08-12 18:41:19.117] [Xeno] [debug] Client Checker thread: 0xa0bea7ef70
+[2026-08-12 18:41:19.117] [Xeno] [debug] Xeno Caching thread: 0xa0bea7ef60
+[2026-08-12 18:41:19.117] [Xeno] [debug] WebSockets Cleaner thread: 0xa0bea7ef50
+[2026-08-12 18:41:19.117] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-12 18:41:19.117] [Xeno] [debug] Xeno Server thread: 0xa0bea7ef40
+[2026-08-12 18:41:19.118] [Cache] [info] Reattaching to cached client PID: 1020
+[2026-08-12 18:41:19.118] [Cache] [info] Loaded existing cache: 1 RBXClients, 1 RBXBytecode, 0 RBXMFlags, 1 RBXClientInfos
+[2026-08-12 18:41:19.118] [Xeno] [info] Creating new RBXClient: 1020
+[2026-08-12 18:41:19.118] [RBXClient] [info] [1020]: Initializing...
+[2026-08-12 18:41:19.118] [RBXClient] [info] [1020]: Version: version-ddf602d9cfe44005
+[2026-08-12 18:41:19.118] [Xeno] [debug] Created RBXClient instance @0x1b5157612c0
+[2026-08-12 18:41:19.118] [Xeno] [info] Successfully created RBXClient: 1020
+[2026-08-12 18:41:19.118] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-12 18:41:19.118] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-12 18:41:19.118] [RBXClient] [trace] [1020]: Attempting to retrieve RBXClient data...
+[2026-08-12 18:41:19.190] [RBXClient] [trace] [1020]: Successfully retrieved RBXClient data (Primary)
+[2026-08-12 18:41:19.190] [RBXClient] [trace] [1020]: Offsets for version "version-ddf602d9cfe44005" points to version "version-2269b67864ab4ad4" with same offsets
+[2026-08-12 18:41:19.191] [Cache] [trace] [1020]: Client was previously activated and handled successfully
+[2026-08-12 18:41:19.191] [RBXClient] [info] [1020]: RenderView retrieved from Cache: 0x1e9ad1d3880
+[2026-08-12 18:41:19.410] [RBXClient] [debug] [1020]: 1972 candidates found for the instruction
+[2026-08-12 18:41:19.412] [RBXClient] [debug] [1020]:  Instruction address: 0x1e8991cc0ba
+[2026-08-12 18:41:19.412] [RBXClient] [debug] [1020]: Bytecode Patch Watcher thread: 0xa0bf07f5f0
+[2026-08-12 18:41:19.414] [RBXClient] [debug] [1020]: DataModel (Ugc): 0x1e9b970f250
+[2026-08-12 18:41:19.415] [RBXClient] [debug] [1020]: LocalPlayer: 0x1e9dd063080
+[2026-08-12 18:41:19.415] [RBXClient] [debug] [acgplayerfan12121 (1020)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-12 18:41:19.415] [RBXClient] [info] [acgplayerfan12121 (1020)]: Client was already attached, handling important core functions for the client :D
+[2026-08-12 18:41:24.393] [Execution] [warning] [1020]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 18:41:24.611] [Execution] [warning] [1020]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 18:41:29.081] [RBXClient] [trace] [acgplayerfan12121 (1020)][::BytecodePatchWatcherT]: Threshold reached. Workers failed to call restore (Automatically restoring to prevent crash)
+[2026-08-12 18:41:32.055] [RBXClient] [trace] [acgplayerfan12121 (1020)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-08-12 18:41:32.055] [Xeno] [info] Removed RBXClient: 1020

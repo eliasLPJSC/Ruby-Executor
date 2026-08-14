@@ -1,0 +1,10 @@
+[2026-08-11 16:44:24.310] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-11 16:44:24.310] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-11 16:44:24.310] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-11_16-44-24.log
+[2026-08-11 16:44:24.311] [Xeno] [debug] Client Checker thread: 0x7a2887e890
+[2026-08-11 16:44:24.311] [Xeno] [debug] Xeno Caching thread: 0x7a2887e880
+[2026-08-11 16:44:24.311] [Xeno] [debug] WebSockets Cleaner thread: 0x7a2887e870
+[2026-08-11 16:44:24.312] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-11 16:44:24.312] [Xeno] [debug] Xeno Server thread: 0x7a2887e860
+[2026-08-11 16:44:24.312] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-11 16:44:24.312] [Server] [info] Visit http://localhost:3110 to view any additional information

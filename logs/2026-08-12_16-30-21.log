@@ -1,0 +1,54 @@
+[2026-08-12 16:30:21.945] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-12 16:30:21.946] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-12 16:30:21.946] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-12_16-30-21.log
+[2026-08-12 16:30:21.951] [Xeno] [debug] Client Checker thread: 0x437e83ed20
+[2026-08-12 16:30:21.951] [Xeno] [debug] Xeno Caching thread: 0x437e83ed10
+[2026-08-12 16:30:21.952] [Xeno] [debug] WebSockets Cleaner thread: 0x437e83ed00
+[2026-08-12 16:30:21.952] [Xeno] [debug] Xeno Server thread: 0x437e83ecf0
+[2026-08-12 16:30:21.952] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-12 16:30:21.954] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-12 16:30:21.954] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-12 16:30:21.967] [Xeno] [info] Creating new RBXClient: 38768
+[2026-08-12 16:30:21.967] [RBXClient] [info] [38768]: Initializing...
+[2026-08-12 16:30:21.968] [RBXClient] [info] [38768]: Version: version-d584fb6c717a43d9
+[2026-08-12 16:30:21.968] [Xeno] [debug] Created RBXClient instance @0x15d15c43030
+[2026-08-12 16:30:21.968] [Xeno] [info] Successfully created RBXClient: 38768
+[2026-08-12 16:30:21.968] [RBXClient] [trace] [38768]: Attempting to retrieve RBXClient data...
+[2026-08-12 16:30:22.020] [RBXClient] [trace] [38768]: Successfully retrieved RBXClient data (Primary)
+[2026-08-12 16:30:22.021] [RBXClient] [debug] [38768]: Fetching DataModel...
+[2026-08-12 16:30:22.073] [RBXClient] [debug] [38768]: 	String: 0x28ea7aa9508
+[2026-08-12 16:30:22.073] [RBXClient] [debug] [38768]: 	RenderView: 0x28ea7c83080
+[2026-08-12 16:30:22.334] [RBXClient] [debug] [38768]: 3393 candidates found for the instruction
+[2026-08-12 16:30:22.338] [RBXClient] [warning] [38768]: Failed to find a valid instruction candidate. Retrying... Attempts left: 4
+[2026-08-12 16:30:22.606] [RBXClient] [debug] [38768]: 3245 candidates found for the instruction
+[2026-08-12 16:30:22.610] [RBXClient] [warning] [38768]: Failed to find a valid instruction candidate. Retrying... Attempts left: 3
+[2026-08-12 16:30:22.896] [RBXClient] [debug] [38768]: 3168 candidates found for the instruction
+[2026-08-12 16:30:22.900] [RBXClient] [warning] [38768]: Failed to find a valid instruction candidate. Retrying... Attempts left: 2
+[2026-08-12 16:30:23.174] [RBXClient] [debug] [38768]: 3174 candidates found for the instruction
+[2026-08-12 16:30:23.177] [RBXClient] [warning] [38768]: Failed to find a valid instruction candidate. Retrying... Attempts left: 1
+[2026-08-12 16:30:23.443] [RBXClient] [debug] [38768]: 3177 candidates found for the instruction
+[2026-08-12 16:30:23.447] [RBXClient] [warning] [38768]: Failed to find a valid instruction candidate. Retrying... Attempts left: 0
+[2026-08-12 16:30:23.554] [RBXClient] [critical] [38768]: Failed to find a internal function instruction
+[2026-08-12 16:30:26.020] [Execution] [error] [38768]: Could not find a CoreModule; Client is not attached
+[2026-08-12 16:30:26.039] [Execution] [error] [38768]: Could not find a CoreModule; Client is not attached
+[2026-08-12 16:30:26.041] [Execution] [error] [38768]: Could not find a CoreModule; Client is not attached
+[2026-08-12 16:30:26.179] [Execution] [error] [38768]: Could not find a CoreModule; Client is not attached
+[2026-08-12 16:30:26.193] [Execution] [error] [38768]: Could not find a CoreModule; Client is not attached
+[2026-08-12 16:30:26.194] [Execution] [error] [38768]: Could not find a CoreModule; Client is not attached
+[2026-08-12 16:30:26.331] [Execution] [error] [38768]: Could not find a CoreModule; Client is not attached
+[2026-08-12 16:30:26.347] [Execution] [error] [38768]: Could not find a CoreModule; Client is not attached
+[2026-08-12 16:30:26.347] [Execution] [error] [38768]: Could not find a CoreModule; Client is not attached
+[2026-08-12 16:31:14.834] [Execution] [error] [38768]: Could not find a CoreModule; Client is not attached
+[2026-08-12 16:31:14.835] [Execution] [error] [38768]: Could not find a CoreModule; Client is not attached
+[2026-08-12 16:31:14.988] [Execution] [error] [38768]: Could not find a CoreModule; Client is not attached
+[2026-08-12 16:31:14.988] [Execution] [error] [38768]: Could not find a CoreModule; Client is not attached
+[2026-08-12 16:31:15.140] [Execution] [error] [38768]: Could not find a CoreModule; Client is not attached
+[2026-08-12 16:31:15.140] [Execution] [error] [38768]: Could not find a CoreModule; Client is not attached
+[2026-08-12 16:31:17.190] [Execution] [error] [38768]: Could not find a CoreModule; Client is not attached
+[2026-08-12 16:31:17.349] [Execution] [error] [38768]: Could not find a CoreModule; Client is not attached
+[2026-08-12 16:31:17.503] [Execution] [error] [38768]: Could not find a CoreModule; Client is not attached
+[2026-08-12 16:32:46.038] [Execution] [error] [38768]: Could not find a CoreModule; Client is not attached
+[2026-08-12 16:32:46.191] [Execution] [error] [38768]: Could not find a CoreModule; Client is not attached
+[2026-08-12 16:32:46.348] [Execution] [error] [38768]: Could not find a CoreModule; Client is not attached
+[2026-08-12 16:32:50.207] [RBXClient] [trace] [[!] Failed (38768)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-08-12 16:32:50.207] [Xeno] [info] Removed RBXClient: 38768

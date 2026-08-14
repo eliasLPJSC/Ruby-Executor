@@ -1,0 +1,44 @@
+[2026-08-11 15:58:50.240] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-11 15:58:50.241] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-11 15:58:50.241] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-11_15-58-50.log
+[2026-08-11 15:58:50.246] [Xeno] [debug] Client Checker thread: 0xa9ef7ddd0
+[2026-08-11 15:58:50.246] [Xeno] [debug] Xeno Caching thread: 0xa9ef7ddc0
+[2026-08-11 15:58:50.246] [Xeno] [debug] WebSockets Cleaner thread: 0xa9ef7ddb0
+[2026-08-11 15:58:50.246] [Xeno] [debug] Xeno Server thread: 0xa9ef7dda0
+[2026-08-11 15:58:50.246] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-11 15:58:50.248] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-11 15:58:50.248] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-11 15:58:59.122] [Xeno] [info] Creating new RBXClient: 25072
+[2026-08-11 15:58:59.122] [RBXClient] [info] [25072]: Initializing...
+[2026-08-11 15:58:59.123] [RBXClient] [info] [25072]: Version: version-d584fb6c717a43d9
+[2026-08-11 15:58:59.123] [Xeno] [debug] Created RBXClient instance @0x19d482450e0
+[2026-08-11 15:58:59.123] [Xeno] [info] Successfully created RBXClient: 25072
+[2026-08-11 15:58:59.123] [RBXClient] [trace] [25072]: Attempting to retrieve RBXClient data...
+[2026-08-11 15:58:59.185] [RBXClient] [trace] [25072]: Successfully retrieved RBXClient data (Primary)
+[2026-08-11 15:58:59.186] [RBXClient] [debug] [25072]: Fetching DataModel...
+[2026-08-11 15:58:59.235] [RBXClient] [debug] [25072]: 	String: 0x21baa022708
+[2026-08-11 15:58:59.235] [RBXClient] [debug] [25072]: 	RenderView: 0x21b945e3880
+[2026-08-11 15:58:59.504] [RBXClient] [debug] [25072]: 1871 candidates found for the instruction
+[2026-08-11 15:58:59.505] [RBXClient] [debug] [25072]:  Instruction address: 0x21b80aac40a
+[2026-08-11 15:58:59.505] [RBXClient] [debug] [25072]: Bytecode Patch Watcher thread: 0xaaa83f5f0
+[2026-08-11 15:58:59.507] [RBXClient] [debug] [25072]: DataModel (Ugc): 0x21b945c6248
+[2026-08-11 15:58:59.508] [RBXClient] [debug] [25072]: LocalPlayer: 0x21b8c273080
+[2026-08-11 15:58:59.508] [RBXClient] [debug] [acgplayerfan12121 (25072)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-11 15:58:59.509] [RBXClient] [trace] [acgplayerfan12121 (25072)]: Attaching in-game using translation module.
+[2026-08-11 15:58:59.509] [Xeno] [debug] Patched translation module @0x21ba3ddac00
+[2026-08-11 15:58:59.681] [RBXClient] [trace] [acgplayerfan12121 (25072)]: Intercepted translation module @0x21ba3ddac00
+[2026-08-11 15:58:59.711] [RBXClient] [trace] [acgplayerfan12121 (25072)][::CRefresh]: Client DataModel refreshed
+[2026-08-11 15:58:59.720] [RBXClient] [trace] [acgplayerfan12121 (25072)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-08-11 15:58:59.725] [RBXClient] [trace] [acgplayerfan12121 (25072)]: Attach ping received from client "acgplayerfan12121", This indicates everything was successful.
+[2026-08-11 15:59:03.321] [Execution] [error] [25072]: Failed to compile (this is a problem with your script): :1: Incomplete statement: expected assignment or a function call
+[2026-08-11 15:59:03.368] [Execution] [error] [25072]: Failed to compile (this is a problem with your script): :1: Incomplete statement: expected assignment or a function call
+[2026-08-11 15:59:03.415] [Execution] [error] [25072]: Failed to compile (this is a problem with your script): :1: Incomplete statement: expected assignment or a function call
+[2026-08-11 15:59:03.460] [Execution] [error] [25072]: Failed to compile (this is a problem with your script): :1: Incomplete statement: expected assignment or a function call
+[2026-08-11 15:59:03.491] [Execution] [error] [25072]: Failed to compile (this is a problem with your script): :1: Incomplete statement: expected assignment or a function call
+[2026-08-11 15:59:04.073] [Execution] [error] [25072]: Failed to compile (this is a problem with your script): :1: Incomplete statement: expected assignment or a function call
+[2026-08-11 15:59:04.407] [Execution] [error] [25072]: Failed to compile (this is a problem with your script): :1: Incomplete statement: expected assignment or a function call
+[2026-08-11 15:59:07.539] [RBXClient] [trace] [acgplayerfan12121 (25072)][::PlayerRemoving]: Player leaving ping recieved. We have to reattach.
+[2026-08-11 15:59:07.539] [RBXClient] [trace] [acgplayerfan12121 (25072)][::PlayerRemoving]: DataModel is being loaded...
+[2026-08-11 15:59:07.599] [RBXClient] [trace] 	[acgplayerfan12121 (25072)][::PlayerRemoving]: DataModel was loaded successfully
+[2026-08-11 15:59:07.600] [RBXClient] [trace] [acgplayerfan12121 (25072)][::PlayerRemoving]: DataModel (LuaApp): 0x21b8fc32648
+[2026-08-11 15:59:07.600] [RBXClient] [info] [acgplayerfan12121 (25072)]: Waiting for you to enter a game...

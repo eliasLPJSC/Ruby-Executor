@@ -1,0 +1,40 @@
+[2026-08-12 12:33:45.218] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-12 12:33:45.219] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-12 12:33:45.219] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-12_12-33-45.log
+[2026-08-12 12:33:45.225] [Xeno] [debug] Client Checker thread: 0x743ff3eac0
+[2026-08-12 12:33:45.225] [Xeno] [debug] Xeno Caching thread: 0x743ff3eab0
+[2026-08-12 12:33:45.225] [Xeno] [debug] WebSockets Cleaner thread: 0x743ff3eaa0
+[2026-08-12 12:33:45.225] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-12 12:33:45.225] [Xeno] [debug] Xeno Server thread: 0x743ff3ea90
+[2026-08-12 12:33:45.226] [Cache] [warning] Failed to read cached client PID #0
+[2026-08-12 12:33:45.226] [Cache] [info] Loaded existing cache: 0 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 1 RBXClientInfos
+[2026-08-12 12:33:45.227] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-12 12:33:45.227] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-12 12:33:45.237] [Xeno] [info] Creating new RBXClient: 25508
+[2026-08-12 12:33:45.237] [RBXClient] [info] [25508]: Initializing...
+[2026-08-12 12:33:45.237] [RBXClient] [info] [25508]: Version: version-d584fb6c717a43d9
+[2026-08-12 12:33:45.237] [Xeno] [debug] Created RBXClient instance @0x1f995a3d250
+[2026-08-12 12:33:45.237] [Xeno] [info] Successfully created RBXClient: 25508
+[2026-08-12 12:33:45.237] [RBXClient] [trace] [25508]: Attempting to retrieve RBXClient data...
+[2026-08-12 12:33:45.296] [RBXClient] [trace] [25508]: Successfully retrieved RBXClient data (Primary)
+[2026-08-12 12:33:45.297] [RBXClient] [info] [25508]: RenderView retrieved from Cache: 0x25e89173880
+[2026-08-12 12:33:45.633] [RBXClient] [debug] [25508]: 2096 candidates found for the instruction
+[2026-08-12 12:33:45.635] [RBXClient] [warning] [25508]: Failed to find a valid instruction candidate. Retrying... Attempts left: 4
+[2026-08-12 12:33:45.976] [RBXClient] [debug] [25508]: 2078 candidates found for the instruction
+[2026-08-12 12:33:45.978] [RBXClient] [warning] [25508]: Failed to find a valid instruction candidate. Retrying... Attempts left: 3
+[2026-08-12 12:33:46.299] [RBXClient] [debug] [25508]: 2082 candidates found for the instruction
+[2026-08-12 12:33:46.301] [RBXClient] [warning] [25508]: Failed to find a valid instruction candidate. Retrying... Attempts left: 2
+[2026-08-12 12:33:46.622] [RBXClient] [debug] [25508]: 2130 candidates found for the instruction
+[2026-08-12 12:33:46.625] [RBXClient] [warning] [25508]: Failed to find a valid instruction candidate. Retrying... Attempts left: 1
+[2026-08-12 12:33:46.957] [RBXClient] [debug] [25508]: 2131 candidates found for the instruction
+[2026-08-12 12:33:46.959] [RBXClient] [warning] [25508]: Failed to find a valid instruction candidate. Retrying... Attempts left: 0
+[2026-08-12 12:33:47.074] [RBXClient] [critical] [25508]: Failed to find a internal function instruction
+[2026-08-12 12:33:49.275] [Execution] [error] [25508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 12:33:49.432] [Execution] [error] [25508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 12:33:49.585] [Execution] [error] [25508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 12:33:50.392] [Execution] [error] [25508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 12:33:50.546] [Execution] [error] [25508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 12:33:50.703] [Execution] [error] [25508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 12:33:50.961] [Execution] [error] [25508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 12:33:51.118] [Execution] [error] [25508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 12:33:51.275] [Execution] [error] [25508]: Could not find a CoreModule; Client is not attached

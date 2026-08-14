@@ -1,0 +1,28 @@
+[2026-08-10 22:13:42.755] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-10 22:13:42.755] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-10 22:13:42.755] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-10_22-13-42.log
+[2026-08-10 22:13:42.756] [Xeno] [debug] Client Checker thread: 0xba171fd580
+[2026-08-10 22:13:42.756] [Xeno] [debug] Xeno Caching thread: 0xba171fd570
+[2026-08-10 22:13:42.756] [Xeno] [debug] WebSockets Cleaner thread: 0xba171fd560
+[2026-08-10 22:13:42.756] [Xeno] [debug] Xeno Server thread: 0xba171fd550
+[2026-08-10 22:13:42.756] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-10 22:13:42.757] [Cache] [info] Reattaching to cached client PID: 27820
+[2026-08-10 22:13:42.757] [Cache] [info] Loaded existing cache: 1 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 1 RBXClientInfos
+[2026-08-10 22:13:42.757] [Xeno] [info] Creating new RBXClient: 27820
+[2026-08-10 22:13:42.757] [RBXClient] [info] [27820]: Initializing...
+[2026-08-10 22:13:42.757] [RBXClient] [info] [27820]: Version: version-d584fb6c717a43d9
+[2026-08-10 22:13:42.757] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-10 22:13:42.757] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-10 22:13:42.757] [Xeno] [debug] Created RBXClient instance @0x26c15954de0
+[2026-08-10 22:13:42.757] [Xeno] [info] Successfully created RBXClient: 27820
+[2026-08-10 22:13:42.757] [RBXClient] [trace] [27820]: Attempting to retrieve RBXClient data...
+[2026-08-10 22:13:42.807] [RBXClient] [trace] [27820]: Successfully retrieved RBXClient data (Primary)
+[2026-08-10 22:13:42.808] [Cache] [trace] [27820]: Client was previously activated and handled successfully
+[2026-08-10 22:13:42.808] [RBXClient] [info] [27820]: RenderView retrieved from Cache: 0x1609ac33080
+[2026-08-10 22:13:43.040] [RBXClient] [debug] [27820]: 2107 candidates found for the instruction
+[2026-08-10 22:13:43.043] [RBXClient] [debug] [27820]:  Instruction address: 0x15f8977c40a
+[2026-08-10 22:13:43.043] [RBXClient] [debug] [27820]: Bytecode Patch Watcher thread: 0xba1edff7d0
+[2026-08-10 22:13:43.044] [RBXClient] [debug] [27820]: DataModel (Ugc): 0x161641d9e48
+[2026-08-10 22:13:43.045] [RBXClient] [debug] [27820]: LocalPlayer: 0x16171b16080
+[2026-08-10 22:13:43.045] [RBXClient] [debug] [acgplayerfan12121 (27820)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-10 22:13:43.046] [RBXClient] [info] [acgplayerfan12121 (27820)]: Client was already attached, handling important core functions for the client :D

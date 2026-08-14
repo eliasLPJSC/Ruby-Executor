@@ -1,0 +1,47 @@
+[2026-08-12 17:41:26.754] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-12 17:41:26.754] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-12 17:41:26.754] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-12_17-41-26.log
+[2026-08-12 17:41:26.759] [Xeno] [debug] Client Checker thread: 0x949537e810
+[2026-08-12 17:41:26.760] [Xeno] [debug] Xeno Caching thread: 0x949537e800
+[2026-08-12 17:41:26.760] [Xeno] [debug] WebSockets Cleaner thread: 0x949537e7f0
+[2026-08-12 17:41:26.760] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-12 17:41:26.760] [Xeno] [debug] Xeno Server thread: 0x949537e7e0
+[2026-08-12 17:41:26.762] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-12 17:41:26.762] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-12 17:41:26.776] [Xeno] [info] Creating new RBXClient: 11228
+[2026-08-12 17:41:26.776] [RBXClient] [info] [11228]: Initializing...
+[2026-08-12 17:41:26.776] [RBXClient] [info] [11228]: Version: version-d584fb6c717a43d9
+[2026-08-12 17:41:26.776] [Xeno] [debug] Created RBXClient instance @0x1e315a6f290
+[2026-08-12 17:41:26.776] [Xeno] [info] Successfully created RBXClient: 11228
+[2026-08-12 17:41:26.777] [RBXClient] [trace] [11228]: Attempting to retrieve RBXClient data...
+[2026-08-12 17:41:26.828] [RBXClient] [trace] [11228]: Successfully retrieved RBXClient data (Primary)
+[2026-08-12 17:41:26.829] [RBXClient] [debug] [11228]: Fetching DataModel...
+[2026-08-12 17:41:26.879] [RBXClient] [debug] [11228]: 	String: 0x1809f8e6a88
+[2026-08-12 17:41:26.879] [RBXClient] [debug] [11228]: 	RenderView: 0x18089613080
+[2026-08-12 17:41:27.739] [RBXClient] [debug] [11228]: 3200 candidates found for the instruction
+[2026-08-12 17:41:27.744] [RBXClient] [debug] [11228]:  Instruction address: 0x180e6dcc40a
+[2026-08-12 17:41:27.744] [RBXClient] [debug] [11228]: Bytecode Patch Watcher thread: 0x949657f670
+[2026-08-12 17:41:27.746] [RBXClient] [debug] [11228]: DataModel (Ugc): 0x18095659e48
+[2026-08-12 17:41:27.747] [RBXClient] [debug] [11228]: LocalPlayer: 0x180a1603080
+[2026-08-12 17:41:27.748] [RBXClient] [debug] [acgplayerfan12121 (11228)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-12 17:41:27.749] [RBXClient] [trace] [acgplayerfan12121 (11228)]: Attaching in-game using translation module.
+[2026-08-12 17:41:27.749] [Xeno] [debug] Patched translation module @0x1808ec0ac00
+[2026-08-12 17:41:28.000] [RBXClient] [trace] [acgplayerfan12121 (11228)]: Intercepted translation module @0x1808ec0ac00
+[2026-08-12 17:41:28.534] [RBXClient] [warning] [acgplayerfan12121 (11228)]: Attach is taking longer than expected... (I hate you acgplayerfan12121)
+[2026-08-12 17:41:29.101] [Execution] [error] [11228]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-12 17:41:29.264] [Execution] [error] [11228]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-12 17:41:29.405] [Execution] [error] [11228]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-12 17:41:30.582] [RBXClient] [warning] [acgplayerfan12121 (11228)]: Did not receive the success ping from client. Using RefreshRBXWindowV2...
+[2026-08-12 17:41:30.600] [RBXClient] [trace] [acgplayerfan12121 (11228)][::CRefresh]: Client DataModel refreshed
+[2026-08-12 17:41:30.608] [RBXClient] [trace] [acgplayerfan12121 (11228)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-08-12 17:41:30.610] [RBXClient] [trace] [acgplayerfan12121 (11228)]: Attach ping received from client "acgplayerfan12121", This indicates everything was successful.
+[2026-08-12 17:41:43.223] [WebSocket] [error] [11228]: WebSocket returned error "(Unable to connect to echo.websocket.events on port 80, error: Hôte inconnu. )" for url 'ws://echo.websocket.events'
+[2026-08-12 17:42:22.732] [RBXClient] [trace] [acgplayerfan12121 (11228)][::PlayerRemoving]: Player leaving ping recieved. We have to reattach.
+[2026-08-12 17:42:22.732] [RBXClient] [trace] [acgplayerfan12121 (11228)][::PlayerRemoving]: DataModel is being loaded...
+[2026-08-12 17:42:23.777] [RBXClient] [trace] 	[acgplayerfan12121 (11228)][::PlayerRemoving]: DataModel was loaded successfully
+[2026-08-12 17:42:23.778] [RBXClient] [trace] [acgplayerfan12121 (11228)][::PlayerRemoving]: DataModel (LuaApp): 0x18271863e48
+[2026-08-12 17:42:23.778] [RBXClient] [info] [acgplayerfan12121 (11228)]: Waiting for you to enter a game...
+[2026-08-12 17:43:26.618] [Xeno] [info] Removed RBXClient: 11228
+[2026-08-12 17:43:27.023] [RBXClient] [critical] [acgplayerfan12121 (11228)]: Client was closed while waiting to enter a game
+[2026-08-12 17:43:27.023] [RBXClient] [trace] [acgplayerfan12121 (11228)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-08-12 17:43:31.627] [Xeno] [info] Cleaned up '11228' from InitializedClients

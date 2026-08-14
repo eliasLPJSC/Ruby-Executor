@@ -1,0 +1,34 @@
+[2026-08-10 22:34:01.346] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-10 22:34:01.346] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-10 22:34:01.346] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-10_22-34-01.log
+[2026-08-10 22:34:01.347] [Xeno] [debug] Client Checker thread: 0x2b2797d8a0
+[2026-08-10 22:34:01.347] [Xeno] [debug] Xeno Caching thread: 0x2b2797d890
+[2026-08-10 22:34:01.347] [Xeno] [debug] WebSockets Cleaner thread: 0x2b2797d880
+[2026-08-10 22:34:01.348] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-10 22:34:01.348] [Xeno] [debug] Xeno Server thread: 0x2b2797d870
+[2026-08-10 22:34:01.348] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-10 22:34:01.348] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-10 22:34:01.359] [Xeno] [info] Creating new RBXClient: 26512
+[2026-08-10 22:34:01.359] [RBXClient] [info] [26512]: Initializing...
+[2026-08-10 22:34:01.359] [RBXClient] [info] [26512]: Version: version-d584fb6c717a43d9
+[2026-08-10 22:34:01.359] [Xeno] [debug] Created RBXClient instance @0x14d9575bf00
+[2026-08-10 22:34:01.359] [Xeno] [info] Successfully created RBXClient: 26512
+[2026-08-10 22:34:01.359] [RBXClient] [trace] [26512]: Attempting to retrieve RBXClient data...
+[2026-08-10 22:34:01.403] [RBXClient] [trace] [26512]: Successfully retrieved RBXClient data (Primary)
+[2026-08-10 22:34:01.403] [RBXClient] [debug] [26512]: Fetching DataModel...
+[2026-08-10 22:34:01.448] [RBXClient] [debug] [26512]: 	String: 0x27639211f88
+[2026-08-10 22:34:01.448] [RBXClient] [debug] [26512]: 	RenderView: 0x2762b083080
+[2026-08-10 22:34:01.623] [RBXClient] [debug] [26512]: 2424 candidates found for the instruction
+[2026-08-10 22:34:01.625] [RBXClient] [debug] [26512]:  Instruction address: 0x27517dac40a
+[2026-08-10 22:34:01.625] [RBXClient] [debug] [26512]: Bytecode Patch Watcher thread: 0x2b334bf3d0
+[2026-08-10 22:34:01.627] [RBXClient] [debug] [26512]: DataModel (Ugc): 0x276265f9e48
+[2026-08-10 22:34:01.628] [RBXClient] [debug] [26512]: LocalPlayer: 0x2763f217880
+[2026-08-10 22:34:01.628] [RBXClient] [debug] [acgplayerfan12121 (26512)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-10 22:34:01.628] [RBXClient] [trace] [acgplayerfan12121 (26512)]: Attaching in-game using translation module.
+[2026-08-10 22:34:01.629] [Xeno] [debug] Patched translation module @0x2763795ac00
+[2026-08-10 22:34:01.784] [RBXClient] [trace] [acgplayerfan12121 (26512)]: Intercepted translation module @0x2763795ac00
+[2026-08-10 22:34:01.812] [RBXClient] [trace] [acgplayerfan12121 (26512)][::CRefresh]: Client DataModel refreshed
+[2026-08-10 22:34:01.819] [RBXClient] [trace] [acgplayerfan12121 (26512)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-08-10 22:34:01.824] [RBXClient] [trace] [acgplayerfan12121 (26512)]: Attach ping received from client "acgplayerfan12121", This indicates everything was successful.
+[2026-08-10 22:34:08.126] [Execution] [error] [26512]: Failed to compile (this is a problem with your script): :399: Expected 'end' (to close 'function' at line 1), got <eof>; did you forget to close 'then' at line 382?
+[2026-08-10 22:34:19.580] [Execution] [error] [26512]: Failed to compile (this is a problem with your script): :382: Expected identifier when parsing expression, got ';'

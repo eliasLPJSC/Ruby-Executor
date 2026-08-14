@@ -1,0 +1,43 @@
+[2026-08-11 20:36:16.615] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-11 20:36:16.615] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-11 20:36:16.615] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-11_20-36-16.log
+[2026-08-11 20:36:16.616] [Xeno] [debug] Client Checker thread: 0x1e6d37e1d0
+[2026-08-11 20:36:16.616] [Xeno] [debug] Xeno Caching thread: 0x1e6d37e1c0
+[2026-08-11 20:36:16.616] [Xeno] [debug] WebSockets Cleaner thread: 0x1e6d37e1b0
+[2026-08-11 20:36:16.616] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-11 20:36:16.616] [Xeno] [debug] Xeno Server thread: 0x1e6d37e1a0
+[2026-08-11 20:36:16.617] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-11 20:36:16.617] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-11 20:36:29.521] [Xeno] [info] Creating new RBXClient: 23864
+[2026-08-11 20:36:29.521] [RBXClient] [info] [23864]: Initializing...
+[2026-08-11 20:36:29.521] [RBXClient] [info] [23864]: Version: version-d584fb6c717a43d9
+[2026-08-11 20:36:29.521] [Xeno] [debug] Created RBXClient instance @0x1ec95704a20
+[2026-08-11 20:36:29.521] [Xeno] [info] Successfully created RBXClient: 23864
+[2026-08-11 20:36:29.521] [RBXClient] [trace] [23864]: Attempting to retrieve RBXClient data...
+[2026-08-11 20:36:29.571] [RBXClient] [trace] [23864]: Successfully retrieved RBXClient data (Primary)
+[2026-08-11 20:36:29.571] [RBXClient] [info] [23864]: Waiting for Client Window
+[2026-08-11 20:36:33.546] [Execution] [error] [23864]: DataModel address is invalid
+[2026-08-11 20:36:33.560] [Execution] [error] [23864]: DataModel address is invalid
+[2026-08-11 20:36:33.709] [Execution] [error] [23864]: DataModel address is invalid
+[2026-08-11 20:36:33.709] [Execution] [error] [23864]: DataModel address is invalid
+[2026-08-11 20:36:33.865] [Execution] [error] [23864]: DataModel address is invalid
+[2026-08-11 20:36:33.865] [Execution] [error] [23864]: DataModel address is invalid
+[2026-08-11 20:36:35.756] [RBXClient] [info] [23864]: Client window is now available
+[2026-08-11 20:36:35.756] [RBXClient] [debug] [23864]: Fetching DataModel...
+[2026-08-11 20:36:35.805] [RBXClient] [debug] [23864]: 	String: 0x2a823f59c88
+[2026-08-11 20:36:35.805] [RBXClient] [debug] [23864]: 	RenderView: 0x2a8241d3080
+[2026-08-11 20:36:35.897] [RBXClient] [debug] [23864]: 3046 candidates found for the instruction
+[2026-08-11 20:36:35.900] [RBXClient] [debug] [23864]:  Instruction address: 0x2a71124c40a
+[2026-08-11 20:36:35.900] [RBXClient] [debug] [23864]: Bytecode Patch Watcher thread: 0x1e78ebf620
+[2026-08-11 20:36:35.900] [RBXClient] [info] [23864]: 	Waiting for DataModel...
+[2026-08-11 20:36:36.225] [RBXClient] [debug] [23864]: DataModel (LuaApp): 0x2a81f662648
+[2026-08-11 20:36:36.226] [RBXClient] [debug] [23864]: LocalPlayer: 0x2a8264d4880
+[2026-08-11 20:36:36.226] [RBXClient] [debug] [acgplayerfan12121 (23864)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-11 20:36:36.227] [RBXClient] [info] [acgplayerfan12121 (23864)]: Waiting for you to enter a game...
+[2026-08-11 20:36:39.579] [RBXClient] [info] [acgplayerfan12121 (23864)]:  Game has loaded (yielding)
+[2026-08-11 20:36:39.579] [RBXClient] [trace] [acgplayerfan12121 (23864)]: Attaching in-game using translation module.
+[2026-08-11 20:36:39.579] [Xeno] [debug] Patched translation module @0x2a83429ac00
+[2026-08-11 20:36:39.769] [RBXClient] [trace] [acgplayerfan12121 (23864)]: Intercepted translation module @0x2a83429ac00
+[2026-08-11 20:36:39.814] [RBXClient] [trace] [acgplayerfan12121 (23864)][::CRefresh]: Client DataModel refreshed
+[2026-08-11 20:36:39.822] [RBXClient] [trace] [acgplayerfan12121 (23864)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-08-11 20:36:39.823] [RBXClient] [trace] [acgplayerfan12121 (23864)]: Attach ping received from client "acgplayerfan12121", This indicates everything was successful.

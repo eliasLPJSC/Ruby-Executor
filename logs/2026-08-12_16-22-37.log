@@ -1,0 +1,33 @@
+[2026-08-12 16:22:37.565] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-12 16:22:37.565] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-12 16:22:37.565] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-12_16-22-37.log
+[2026-08-12 16:22:37.566] [Xeno] [debug] Client Checker thread: 0xbbab17e940
+[2026-08-12 16:22:37.566] [Xeno] [debug] Xeno Caching thread: 0xbbab17e930
+[2026-08-12 16:22:37.566] [Xeno] [debug] WebSockets Cleaner thread: 0xbbab17e920
+[2026-08-12 16:22:37.566] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-12 16:22:37.566] [Xeno] [debug] Xeno Server thread: 0xbbab17e910
+[2026-08-12 16:22:37.566] [Cache] [info] Reattaching to cached client PID: 25720
+[2026-08-12 16:22:37.567] [Cache] [info] Loaded existing cache: 1 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 1 RBXClientInfos
+[2026-08-12 16:22:37.567] [Xeno] [info] Creating new RBXClient: 25720
+[2026-08-12 16:22:37.567] [RBXClient] [info] [25720]: Initializing...
+[2026-08-12 16:22:37.567] [RBXClient] [info] [25720]: Version: version-d584fb6c717a43d9
+[2026-08-12 16:22:37.567] [Xeno] [debug] Created RBXClient instance @0x2a215afa6b0
+[2026-08-12 16:22:37.567] [Xeno] [info] Successfully created RBXClient: 25720
+[2026-08-12 16:22:37.567] [RBXClient] [trace] [25720]: Attempting to retrieve RBXClient data...
+[2026-08-12 16:22:37.567] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-12 16:22:37.567] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-12 16:22:37.615] [RBXClient] [trace] [25720]: Successfully retrieved RBXClient data (Primary)
+[2026-08-12 16:22:37.615] [Cache] [trace] [25720]: Client was previously activated and handled successfully
+[2026-08-12 16:22:37.615] [RBXClient] [info] [25720]: RenderView retrieved from Cache: 0x1f144a83880
+[2026-08-12 16:22:37.743] [RBXClient] [debug] [25720]: 2024 candidates found for the instruction
+[2026-08-12 16:22:37.745] [RBXClient] [debug] [25720]:  Instruction address: 0x1f032fcc40a
+[2026-08-12 16:22:37.746] [RBXClient] [debug] [25720]: Bytecode Patch Watcher thread: 0xbbacf7f3d0
+[2026-08-12 16:22:37.747] [RBXClient] [debug] [25720]: DataModel (Ugc): 0x1f1508d5648
+[2026-08-12 16:22:37.748] [RBXClient] [debug] [25720]: LocalPlayer: 0x1f13d793080
+[2026-08-12 16:22:37.748] [RBXClient] [debug] [acgplayerfan12121 (25720)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-12 16:22:37.749] [RBXClient] [info] [acgplayerfan12121 (25720)]: Client was already attached, handling important core functions for the client :D
+[2026-08-12 16:22:41.991] [Execution] [warning] [25720]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 16:23:42.708] [WebSocket] [error] [25720]: WebSocket returned error "(Unable to connect to echo.websocket.events on port 80, error: Hôte inconnu. )" for url 'ws://echo.websocket.events'
+[2026-08-12 16:23:52.705] [RBXClient] [trace] [acgplayerfan12121 (25720)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-08-12 16:23:52.705] [Xeno] [info] Removed RBXClient: 25720
+[2026-08-12 16:23:57.707] [Xeno] [info] Cleaned up '25720' from InitializedClients

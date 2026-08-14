@@ -1,0 +1,109 @@
+[2026-08-11 20:28:14.585] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-11 20:28:14.586] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-11 20:28:14.586] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-11_20-28-14.log
+[2026-08-11 20:28:14.587] [Xeno] [debug] Client Checker thread: 0xc68adee160
+[2026-08-11 20:28:14.587] [Xeno] [debug] Xeno Caching thread: 0xc68adee150
+[2026-08-11 20:28:14.587] [Xeno] [debug] WebSockets Cleaner thread: 0xc68adee140
+[2026-08-11 20:28:14.587] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-11 20:28:14.587] [Xeno] [debug] Xeno Server thread: 0xc68adee130
+[2026-08-11 20:28:14.588] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-11 20:28:14.588] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-11 20:28:15.398] [Xeno] [info] Creating new RBXClient: 6312
+[2026-08-11 20:28:15.398] [RBXClient] [info] [6312]: Initializing...
+[2026-08-11 20:28:15.398] [RBXClient] [info] [6312]: Version: version-d584fb6c717a43d9
+[2026-08-11 20:28:15.398] [Xeno] [debug] Created RBXClient instance @0x1e515b1d5b0
+[2026-08-11 20:28:15.398] [Xeno] [info] Successfully created RBXClient: 6312
+[2026-08-11 20:28:15.398] [RBXClient] [trace] [6312]: Attempting to retrieve RBXClient data...
+[2026-08-11 20:28:15.447] [RBXClient] [trace] [6312]: Successfully retrieved RBXClient data (Primary)
+[2026-08-11 20:28:15.447] [RBXClient] [info] [6312]: Waiting for Client Window
+[2026-08-11 20:28:19.422] [Execution] [error] [6312]: DataModel address is invalid
+[2026-08-11 20:28:19.587] [Execution] [error] [6312]: DataModel address is invalid
+[2026-08-11 20:28:19.727] [Execution] [error] [6312]: DataModel address is invalid
+[2026-08-11 20:28:20.346] [RBXClient] [info] [6312]: Client window is now available
+[2026-08-11 20:28:20.346] [RBXClient] [debug] [6312]: Fetching DataModel...
+[2026-08-11 20:28:20.388] [RBXClient] [debug] [6312]: 	String: 0x155cab89c88
+[2026-08-11 20:28:20.388] [RBXClient] [debug] [6312]: 	RenderView: 0x155cad93080
+[2026-08-11 20:28:20.498] [RBXClient] [debug] [6312]: 3061 candidates found for the instruction
+[2026-08-11 20:28:20.501] [RBXClient] [debug] [6312]:  Instruction address: 0x154b862c40a
+[2026-08-11 20:28:20.501] [RBXClient] [debug] [6312]: Bytecode Patch Watcher thread: 0xc6968ffa30
+[2026-08-11 20:28:20.502] [RBXClient] [info] [6312]: 	Waiting for DataModel...
+[2026-08-11 20:28:20.936] [RBXClient] [debug] [6312]: DataModel (LuaApp): 0x155c6ac2648
+[2026-08-11 20:28:20.938] [RBXClient] [debug] [6312]: LocalPlayer: 0x155c6bc7880
+[2026-08-11 20:28:20.938] [RBXClient] [debug] [acgplayerfan12121 (6312)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-11 20:28:20.938] [RBXClient] [info] [acgplayerfan12121 (6312)]: Waiting for you to enter a game...
+[2026-08-11 20:28:25.074] [RBXClient] [info] [acgplayerfan12121 (6312)]:  Game has loaded (yielding)
+[2026-08-11 20:28:25.074] [RBXClient] [trace] [acgplayerfan12121 (6312)]: Attaching in-game using translation module.
+[2026-08-11 20:28:25.074] [Xeno] [debug] Patched translation module @0x155cd6dac00
+[2026-08-11 20:28:25.321] [RBXClient] [trace] [acgplayerfan12121 (6312)]: Intercepted translation module @0x155cd6dac00
+[2026-08-11 20:28:25.353] [RBXClient] [trace] [acgplayerfan12121 (6312)][::CRefresh]: Client DataModel refreshed
+[2026-08-11 20:28:25.361] [RBXClient] [trace] [acgplayerfan12121 (6312)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-08-11 20:28:25.379] [RBXClient] [trace] [acgplayerfan12121 (6312)]: Attach ping received from client "acgplayerfan12121", This indicates everything was successful.
+[2026-08-11 20:28:35.893] [Execution] [error] [6312]: Failed to compile (this is a problem with your script): :1: Incomplete statement: expected assignment or a function call
+[2026-08-11 20:28:36.035] [Execution] [error] [6312]: Failed to compile (this is a problem with your script): :1: Incomplete statement: expected assignment or a function call
+[2026-08-11 20:28:39.321] [Execution] [error] [6312]: Failed to compile (this is a problem with your script): :1: Incomplete statement: expected assignment or a function call
+[2026-08-11 20:28:39.721] [Execution] [error] [6312]: Failed to compile (this is a problem with your script): :1: Incomplete statement: expected assignment or a function call
+[2026-08-11 20:28:39.925] [Execution] [error] [6312]: Failed to compile (this is a problem with your script): :1: Incomplete statement: expected assignment or a function call
+[2026-08-11 20:28:40.095] [Execution] [error] [6312]: Failed to compile (this is a problem with your script): :1: Incomplete statement: expected assignment or a function call
+[2026-08-11 20:28:46.843] [Execution] [warning] [6312]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-11 20:28:47.057] [Execution] [warning] [6312]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-11 20:28:47.271] [Execution] [warning] [6312]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-11 20:28:47.531] [Execution] [warning] [6312]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-11 20:28:47.747] [Execution] [warning] [6312]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-11 20:28:48.007] [Execution] [warning] [6312]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-11 20:28:48.208] [Execution] [warning] [6312]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-11 20:28:48.423] [Execution] [warning] [6312]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-11 20:28:48.701] [Execution] [warning] [6312]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-11 20:28:48.917] [Execution] [warning] [6312]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-11 20:28:49.120] [Execution] [warning] [6312]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-11 20:28:49.397] [Execution] [warning] [6312]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-11 20:28:49.614] [Execution] [warning] [6312]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-11 20:28:49.816] [Execution] [warning] [6312]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-11 20:28:51.639] [RBXClient] [trace] [acgplayerfan12121 (6312)][::BytecodePatchWatcherT]: Threshold reached. Workers failed to call restore (Automatically restoring to prevent crash)
+[2026-08-11 20:28:54.485] [RBXClient] [trace] [acgplayerfan12121 (6312)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-08-11 20:28:54.485] [Xeno] [info] Removed RBXClient: 6312
+[2026-08-11 20:28:56.833] [Xeno] [info] Creating new RBXClient: 33724
+[2026-08-11 20:28:56.833] [RBXClient] [info] [33724]: Initializing...
+[2026-08-11 20:28:56.834] [RBXClient] [info] [33724]: Version: version-d584fb6c717a43d9
+[2026-08-11 20:28:56.834] [Xeno] [debug] Created RBXClient instance @0x1e515b1d5b0
+[2026-08-11 20:28:56.834] [Xeno] [info] Successfully created RBXClient: 33724
+[2026-08-11 20:28:56.834] [RBXClient] [trace] [33724]: Attempting to retrieve RBXClient data...
+[2026-08-11 20:28:56.869] [RBXClient] [trace] [33724]: Successfully retrieved RBXClient data (Primary)
+[2026-08-11 20:28:56.870] [RBXClient] [info] [33724]: Waiting for Client Window
+[2026-08-11 20:28:56.870] [RBXClient] [critical] [33724]: Client was closed while attaching
+[2026-08-11 20:28:56.916] [RBXClient] [trace] [[!] Failed (33724)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-08-11 20:28:56.916] [Xeno] [info] Removed RBXClient: 33724
+[2026-08-11 20:28:59.486] [Xeno] [info] Cleaned up '6312' from InitializedClients
+[2026-08-11 20:29:00.962] [Xeno] [info] Creating new RBXClient: 31348
+[2026-08-11 20:29:00.962] [RBXClient] [info] [31348]: Initializing...
+[2026-08-11 20:29:00.962] [RBXClient] [info] [31348]: Version: version-d584fb6c717a43d9
+[2026-08-11 20:29:00.962] [Xeno] [debug] Created RBXClient instance @0x1e515b1d5b0
+[2026-08-11 20:29:00.962] [Xeno] [info] Successfully created RBXClient: 31348
+[2026-08-11 20:29:00.962] [RBXClient] [trace] [31348]: Attempting to retrieve RBXClient data...
+[2026-08-11 20:29:01.002] [RBXClient] [trace] [31348]: Successfully retrieved RBXClient data (Primary)
+[2026-08-11 20:29:01.002] [RBXClient] [info] [31348]: Waiting for Client Window
+[2026-08-11 20:29:01.921] [Xeno] [info] Cleaned up '33724' from InitializedClients
+[2026-08-11 20:29:03.398] [RBXClient] [info] [31348]: Client window is now available
+[2026-08-11 20:29:03.398] [RBXClient] [debug] [31348]: Fetching DataModel...
+[2026-08-11 20:29:03.440] [RBXClient] [debug] [31348]: 	String: 0x1be945d9f08
+[2026-08-11 20:29:03.440] [RBXClient] [debug] [31348]: 	RenderView: 0x1be947e3080
+[2026-08-11 20:29:03.558] [RBXClient] [debug] [31348]: 3023 candidates found for the instruction
+[2026-08-11 20:29:03.562] [RBXClient] [debug] [31348]:  Instruction address: 0x1be80f7c40a
+[2026-08-11 20:29:03.562] [RBXClient] [debug] [31348]: Bytecode Patch Watcher thread: 0xc6941ffa80
+[2026-08-11 20:29:03.562] [RBXClient] [info] [31348]: 	Waiting for DataModel...
+[2026-08-11 20:29:03.987] [Execution] [error] [31348]: DataModel address is invalid
+[2026-08-11 20:29:04.109] [RBXClient] [debug] [31348]: DataModel (LuaApp): 0x1be8ff72648
+[2026-08-11 20:29:04.111] [RBXClient] [debug] [31348]: LocalPlayer: 0x1be94944880
+[2026-08-11 20:29:04.111] [RBXClient] [debug] [acgplayerfan12121 (31348)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-11 20:29:04.111] [RBXClient] [info] [acgplayerfan12121 (31348)]: Waiting for you to enter a game...
+[2026-08-11 20:29:04.139] [Execution] [error] [31348]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-11 20:29:04.295] [Execution] [error] [31348]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-11 20:29:04.977] [Execution] [error] [31348]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-11 20:29:05.135] [Execution] [error] [31348]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-11 20:29:05.290] [Execution] [error] [31348]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-11 20:29:07.769] [RBXClient] [info] [acgplayerfan12121 (31348)]:  Game has loaded (yielding)
+[2026-08-11 20:29:07.769] [RBXClient] [trace] [acgplayerfan12121 (31348)]: Attaching in-game using translation module.
+[2026-08-11 20:29:07.769] [Xeno] [debug] Patched translation module @0x1be9e6eac00
+[2026-08-11 20:29:07.967] [RBXClient] [trace] [acgplayerfan12121 (31348)]: Intercepted translation module @0x1be9e6eac00
+[2026-08-11 20:29:07.988] [RBXClient] [trace] [acgplayerfan12121 (31348)][::CRefresh]: Client DataModel refreshed
+[2026-08-11 20:29:07.996] [RBXClient] [trace] [acgplayerfan12121 (31348)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-08-11 20:29:08.007] [RBXClient] [trace] [acgplayerfan12121 (31348)]: Attach ping received from client "acgplayerfan12121", This indicates everything was successful.

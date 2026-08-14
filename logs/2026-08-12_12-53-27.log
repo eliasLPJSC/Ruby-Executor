@@ -1,0 +1,34 @@
+[2026-08-12 12:53:27.073] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-12 12:53:27.073] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-12 12:53:27.073] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-12_12-53-27.log
+[2026-08-12 12:53:27.074] [Xeno] [debug] Client Checker thread: 0x359e5bea90
+[2026-08-12 12:53:27.074] [Xeno] [debug] Xeno Caching thread: 0x359e5bea80
+[2026-08-12 12:53:27.075] [Xeno] [debug] WebSockets Cleaner thread: 0x359e5bea70
+[2026-08-12 12:53:27.075] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-12 12:53:27.075] [Xeno] [debug] Xeno Server thread: 0x359e5bea60
+[2026-08-12 12:53:27.075] [Cache] [info] Reattaching to cached client PID: 18800
+[2026-08-12 12:53:27.075] [Cache] [info] Loaded existing cache: 1 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 1 RBXClientInfos
+[2026-08-12 12:53:27.075] [Xeno] [info] Creating new RBXClient: 18800
+[2026-08-12 12:53:27.075] [RBXClient] [info] [18800]: Initializing...
+[2026-08-12 12:53:27.076] [RBXClient] [info] [18800]: Version: version-d584fb6c717a43d9
+[2026-08-12 12:53:27.076] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-12 12:53:27.076] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-12 12:53:27.076] [Xeno] [debug] Created RBXClient instance @0x16495a698d0
+[2026-08-12 12:53:27.076] [Xeno] [info] Successfully created RBXClient: 18800
+[2026-08-12 12:53:27.076] [RBXClient] [trace] [18800]: Attempting to retrieve RBXClient data...
+[2026-08-12 12:53:27.134] [RBXClient] [trace] [18800]: Successfully retrieved RBXClient data (Primary)
+[2026-08-12 12:53:27.134] [Cache] [trace] [18800]: Client was previously activated and handled successfully
+[2026-08-12 12:53:27.134] [RBXClient] [info] [18800]: RenderView retrieved from Cache: 0x1a809e43080
+[2026-08-12 12:53:27.336] [RBXClient] [debug] [18800]: 2888 candidates found for the instruction
+[2026-08-12 12:53:27.339] [RBXClient] [debug] [18800]:  Instruction address: 0x1a86a31c40a
+[2026-08-12 12:53:27.340] [RBXClient] [debug] [18800]: Bytecode Patch Watcher thread: 0x35a52bf920
+[2026-08-12 12:53:27.341] [RBXClient] [debug] [18800]: DataModel (Ugc): 0x1a9e2e08648
+[2026-08-12 12:53:27.342] [RBXClient] [debug] [18800]: LocalPlayer: 0x1a8261e6080
+[2026-08-12 12:53:27.342] [RBXClient] [debug] [acgplayerfan12121 (18800)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-12 12:53:27.342] [RBXClient] [trace] [acgplayerfan12121 (18800)]: Attaching in-game using translation module.
+[2026-08-12 12:53:27.343] [Xeno] [debug] Patched translation module @0x1a9e655c2c0
+[2026-08-12 12:53:27.523] [RBXClient] [trace] [acgplayerfan12121 (18800)]: Intercepted translation module @0x1a9e655c2c0
+[2026-08-12 12:53:27.547] [RBXClient] [trace] [acgplayerfan12121 (18800)][::CRefresh]: Client DataModel refreshed
+[2026-08-12 12:53:27.555] [RBXClient] [trace] [acgplayerfan12121 (18800)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-08-12 12:53:36.673] [Execution] [error] [18800]: Failed to compile (this is a problem with your script): :3: Expected identifier when parsing expression, got Unicode character U+a0 (did you mean ' '?)
+[2026-08-12 12:54:25.433] [WebSocket] [error] [18800]: WebSocket returned error "(Unable to connect to echo.websocket.events on port 80, error: Hôte inconnu. )" for url 'ws://echo.websocket.events'

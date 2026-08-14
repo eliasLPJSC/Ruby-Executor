@@ -1,0 +1,39 @@
+[2026-08-11 19:31:21.314] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-11 19:31:21.314] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-11 19:31:21.315] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-11_19-31-21.log
+[2026-08-11 19:31:21.315] [Xeno] [debug] Client Checker thread: 0x44d973e8c0
+[2026-08-11 19:31:21.315] [Xeno] [debug] Xeno Caching thread: 0x44d973e8b0
+[2026-08-11 19:31:21.316] [Xeno] [debug] WebSockets Cleaner thread: 0x44d973e8a0
+[2026-08-11 19:31:21.316] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-11 19:31:21.316] [Xeno] [debug] Xeno Server thread: 0x44d973e890
+[2026-08-11 19:31:21.316] [Cache] [info] Reattaching to cached client PID: 29560
+[2026-08-11 19:31:21.316] [Cache] [info] Loaded existing cache: 1 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 1 RBXClientInfos
+[2026-08-11 19:31:21.316] [Xeno] [info] Creating new RBXClient: 29560
+[2026-08-11 19:31:21.316] [RBXClient] [info] [29560]: Initializing...
+[2026-08-11 19:31:21.316] [RBXClient] [info] [29560]: Version: version-d584fb6c717a43d9
+[2026-08-11 19:31:21.317] [Xeno] [debug] Created RBXClient instance @0x17195996840
+[2026-08-11 19:31:21.317] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-11 19:31:21.317] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-11 19:31:21.317] [Xeno] [info] Successfully created RBXClient: 29560
+[2026-08-11 19:31:21.317] [RBXClient] [trace] [29560]: Attempting to retrieve RBXClient data...
+[2026-08-11 19:31:21.357] [RBXClient] [trace] [29560]: Successfully retrieved RBXClient data (Primary)
+[2026-08-11 19:31:21.359] [RBXClient] [info] [29560]: RenderView retrieved from Cache: 0x1f429dc3080
+[2026-08-11 19:31:21.480] [RBXClient] [debug] [29560]: 980 candidates found for the instruction
+[2026-08-11 19:31:21.481] [RBXClient] [debug] [29560]:  Instruction address: 0x1f31724c40a
+[2026-08-11 19:31:21.481] [RBXClient] [debug] [29560]: Bytecode Patch Watcher thread: 0x44d9d3f860
+[2026-08-11 19:31:21.482] [RBXClient] [debug] [29560]: DataModel (LuaApp): 0x1f425ce2648
+[2026-08-11 19:31:21.483] [RBXClient] [debug] [29560]: LocalPlayer: 0x1f42c6a4880
+[2026-08-11 19:31:21.483] [RBXClient] [debug] [acgplayerfan12121 (29560)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-11 19:31:21.484] [RBXClient] [info] [acgplayerfan12121 (29560)]: Waiting for you to enter a game...
+[2026-08-11 19:31:25.361] [Execution] [error] [29560]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-11 19:31:25.523] [Execution] [error] [29560]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-11 19:31:25.676] [Execution] [error] [29560]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-11 19:31:29.375] [Execution] [error] [29560]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-11 19:31:29.530] [Execution] [error] [29560]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-11 19:31:29.684] [Execution] [error] [29560]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-11 19:31:29.934] [Execution] [error] [29560]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-11 19:31:30.083] [Execution] [error] [29560]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-11 19:31:30.088] [Execution] [error] [29560]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-11 19:31:30.241] [Execution] [error] [29560]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-11 19:31:30.242] [Execution] [error] [29560]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-11 19:31:30.394] [Execution] [error] [29560]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh

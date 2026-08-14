@@ -1,0 +1,21 @@
+[2026-08-11 12:28:50.872] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-11 12:28:50.872] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-11 12:28:50.872] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-11_12-28-50.log
+[2026-08-11 12:28:50.877] [Xeno] [debug] Client Checker thread: 0x53ea97d800
+[2026-08-11 12:28:50.877] [Xeno] [debug] Xeno Caching thread: 0x53ea97d7f0
+[2026-08-11 12:28:50.877] [Xeno] [debug] WebSockets Cleaner thread: 0x53ea97d7e0
+[2026-08-11 12:28:50.877] [Xeno] [debug] Xeno Server thread: 0x53ea97d7d0
+[2026-08-11 12:28:50.877] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-11 12:28:50.879] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-11 12:28:50.879] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-11 12:28:50.887] [Xeno] [info] Creating new RBXClient: 10596
+[2026-08-11 12:28:50.887] [RBXClient] [info] [10596]: Initializing...
+[2026-08-11 12:28:50.888] [RBXClient] [info] [10596]: Version: version-d584fb6c717a43d9
+[2026-08-11 12:28:50.888] [Xeno] [debug] Created RBXClient instance @0x24c9572e640
+[2026-08-11 12:28:50.888] [Xeno] [info] Successfully created RBXClient: 10596
+[2026-08-11 12:28:50.888] [RBXClient] [trace] [10596]: Attempting to retrieve RBXClient data...
+[2026-08-11 12:28:50.935] [RBXClient] [trace] [10596]: Successfully retrieved RBXClient data (Primary)
+[2026-08-11 12:28:50.936] [RBXClient] [info] [10596]: Waiting for Client Window
+[2026-08-11 12:28:55.005] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 12:28:55.165] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 12:28:55.318] [Execution] [error] [10596]: DataModel address is invalid

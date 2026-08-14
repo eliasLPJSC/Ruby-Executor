@@ -1,0 +1,85 @@
+[2026-08-12 16:42:38.726] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-12 16:42:38.726] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-12 16:42:38.726] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-12_16-42-38.log
+[2026-08-12 16:42:38.727] [Xeno] [debug] Client Checker thread: 0xc74a03ee40
+[2026-08-12 16:42:38.727] [Xeno] [debug] Xeno Caching thread: 0xc74a03ee30
+[2026-08-12 16:42:38.727] [Xeno] [debug] WebSockets Cleaner thread: 0xc74a03ee20
+[2026-08-12 16:42:38.728] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-12 16:42:38.728] [Xeno] [debug] Xeno Server thread: 0xc74a03ee10
+[2026-08-12 16:42:38.728] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-12 16:42:38.728] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-12 16:42:38.741] [Xeno] [info] Creating new RBXClient: 4384
+[2026-08-12 16:42:38.741] [RBXClient] [info] [4384]: Initializing...
+[2026-08-12 16:42:38.741] [RBXClient] [info] [4384]: Version: version-d584fb6c717a43d9
+[2026-08-12 16:42:38.741] [Xeno] [debug] Created RBXClient instance @0x29795d08170
+[2026-08-12 16:42:38.741] [Xeno] [info] Successfully created RBXClient: 4384
+[2026-08-12 16:42:38.742] [RBXClient] [trace] [4384]: Attempting to retrieve RBXClient data...
+[2026-08-12 16:42:38.779] [RBXClient] [trace] [4384]: Successfully retrieved RBXClient data (Primary)
+[2026-08-12 16:42:38.780] [RBXClient] [debug] [4384]: Fetching DataModel...
+[2026-08-12 16:42:38.800] [RBXClient] [debug] [4384]: 	String: 0x1e209639f08
+[2026-08-12 16:42:38.800] [RBXClient] [debug] [4384]: 	RenderView: 0x1e209843880
+[2026-08-12 16:42:38.943] [RBXClient] [debug] [4384]: 3631 candidates found for the instruction
+[2026-08-12 16:42:38.947] [RBXClient] [debug] [4384]:  Instruction address: 0x1e24fa1c40a
+[2026-08-12 16:42:38.947] [RBXClient] [debug] [4384]: Bytecode Patch Watcher thread: 0xc74e53f6f0
+[2026-08-12 16:42:38.948] [RBXClient] [debug] [4384]: DataModel (Ugc): 0x1e2148d3e48
+[2026-08-12 16:42:38.949] [RBXClient] [debug] [4384]: LocalPlayer: 0x1e221019080
+[2026-08-12 16:42:38.949] [RBXClient] [debug] [acgplayerfan12121 (4384)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-12 16:42:38.950] [RBXClient] [trace] [acgplayerfan12121 (4384)]: Attaching in-game using translation module.
+[2026-08-12 16:42:38.951] [Xeno] [debug] Patched translation module @0x1e205a7cf00
+[2026-08-12 16:42:39.122] [RBXClient] [trace] [acgplayerfan12121 (4384)]: Intercepted translation module @0x1e205a7cf00
+[2026-08-12 16:42:39.138] [RBXClient] [trace] [acgplayerfan12121 (4384)][::CRefresh]: Client DataModel refreshed
+[2026-08-12 16:42:39.145] [RBXClient] [trace] [acgplayerfan12121 (4384)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-08-12 16:42:39.146] [RBXClient] [trace] [acgplayerfan12121 (4384)]: Attach ping received from client "acgplayerfan12121", This indicates everything was successful.
+[2026-08-12 16:42:43.149] [Execution] [warning] [4384]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 16:42:43.505] [Execution] [warning] [4384]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 16:42:49.247] [WebSocket] [error] [4384]: WebSocket returned error "(Unable to connect to echo.websocket.events on port 80, error: Hôte inconnu. )" for url 'ws://echo.websocket.events'
+[2026-08-12 16:42:59.191] [WebSocket] [error] [4384]: WebSocket returned error "(Unable to connect to echo.websocket.events on port 80, error: Hôte inconnu. )" for url 'ws://echo.websocket.events'
+[2026-08-12 16:44:01.912] [RBXClient] [trace] [acgplayerfan12121 (4384)][::PlayerRemoving]: Player leaving ping recieved. We have to reattach.
+[2026-08-12 16:44:01.912] [RBXClient] [trace] [acgplayerfan12121 (4384)][::PlayerRemoving]: DataModel is being loaded...
+[2026-08-12 16:44:01.984] [RBXClient] [trace] 	[acgplayerfan12121 (4384)][::PlayerRemoving]: DataModel was loaded successfully
+[2026-08-12 16:44:01.985] [RBXClient] [trace] [acgplayerfan12121 (4384)][::PlayerRemoving]: DataModel (LuaApp): 0x1e206032648
+[2026-08-12 16:44:01.986] [RBXClient] [info] [acgplayerfan12121 (4384)]: Waiting for you to enter a game...
+[2026-08-12 16:44:06.668] [RBXClient] [info] [acgplayerfan12121 (4384)]:  Game has loaded (yielding)
+[2026-08-12 16:44:06.668] [RBXClient] [trace] [acgplayerfan12121 (4384)]: Attaching in-game using translation module.
+[2026-08-12 16:44:06.862] [RBXClient] [trace] [acgplayerfan12121 (4384)]: Intercepted translation module @0x1e23845f740
+[2026-08-12 16:44:06.874] [RBXClient] [trace] [acgplayerfan12121 (4384)][::CRefresh]: Client DataModel refreshed
+[2026-08-12 16:44:06.881] [RBXClient] [trace] [acgplayerfan12121 (4384)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-08-12 16:44:06.883] [RBXClient] [trace] [acgplayerfan12121 (4384)]: Attach ping received from client "acgplayerfan12121", This indicates everything was successful.
+[2026-08-12 16:44:08.624] [RBXClient] [trace] [acgplayerfan12121 (4384)][::PlayerRemoving]: Player leaving ping recieved. We have to reattach.
+[2026-08-12 16:44:08.624] [RBXClient] [trace] [acgplayerfan12121 (4384)][::PlayerRemoving]: DataModel is being loaded...
+[2026-08-12 16:44:08.880] [RBXClient] [trace] 	[acgplayerfan12121 (4384)][::PlayerRemoving]: DataModel was loaded successfully
+[2026-08-12 16:44:08.881] [RBXClient] [trace] [acgplayerfan12121 (4384)][::PlayerRemoving]: DataModel (LuaApp): 0x1e206032648
+[2026-08-12 16:44:08.882] [RBXClient] [info] [acgplayerfan12121 (4384)]: Waiting for you to enter a game...
+[2026-08-12 16:44:56.759] [RBXClient] [info] [acgplayerfan12121 (4384)]:  Game has loaded (yielding)
+[2026-08-12 16:44:56.759] [RBXClient] [trace] [acgplayerfan12121 (4384)]: Attaching in-game using translation module.
+[2026-08-12 16:44:56.969] [RBXClient] [trace] [acgplayerfan12121 (4384)]: Intercepted translation module @0x1e21cd22540
+[2026-08-12 16:44:57.002] [RBXClient] [trace] [acgplayerfan12121 (4384)][::CRefresh]: Client DataModel refreshed
+[2026-08-12 16:44:57.011] [RBXClient] [trace] [acgplayerfan12121 (4384)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-08-12 16:44:57.016] [RBXClient] [trace] [acgplayerfan12121 (4384)]: Attach ping received from client "acgplayerfan12121", This indicates everything was successful.
+[2026-08-12 16:45:08.071] [RBXClient] [trace] [acgplayerfan12121 (4384)][::PlayerRemoving]: Player leaving ping recieved. We have to reattach.
+[2026-08-12 16:45:08.072] [RBXClient] [trace] [acgplayerfan12121 (4384)][::PlayerRemoving]: DataModel is being loaded...
+[2026-08-12 16:45:08.448] [RBXClient] [trace] 	[acgplayerfan12121 (4384)][::PlayerRemoving]: DataModel was loaded successfully
+[2026-08-12 16:45:08.449] [RBXClient] [trace] [acgplayerfan12121 (4384)][::PlayerRemoving]: DataModel (LuaApp): 0x1e206032648
+[2026-08-12 16:45:08.450] [RBXClient] [info] [acgplayerfan12121 (4384)]: Waiting for you to enter a game...
+[2026-08-12 16:45:15.594] [RBXClient] [info] [acgplayerfan12121 (4384)]:  Game has loaded (yielding)
+[2026-08-12 16:45:15.594] [RBXClient] [trace] [acgplayerfan12121 (4384)]: Attaching in-game using translation module.
+[2026-08-12 16:45:15.772] [RBXClient] [trace] [acgplayerfan12121 (4384)]: Intercepted translation module @0x1e3eeccb680
+[2026-08-12 16:45:15.783] [RBXClient] [trace] [acgplayerfan12121 (4384)][::CRefresh]: Client DataModel refreshed
+[2026-08-12 16:45:15.790] [RBXClient] [trace] [acgplayerfan12121 (4384)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-08-12 16:45:15.791] [RBXClient] [trace] [acgplayerfan12121 (4384)]: Attach ping received from client "acgplayerfan12121", This indicates everything was successful.
+[2026-08-12 16:45:33.828] [RBXClient] [trace] [acgplayerfan12121 (4384)][::PlayerRemoving]: Player leaving ping recieved. We have to reattach.
+[2026-08-12 16:45:33.828] [RBXClient] [trace] [acgplayerfan12121 (4384)][::PlayerRemoving]: DataModel is being loaded...
+[2026-08-12 16:45:33.886] [RBXClient] [trace] 	[acgplayerfan12121 (4384)][::PlayerRemoving]: DataModel was loaded successfully
+[2026-08-12 16:45:33.887] [RBXClient] [trace] [acgplayerfan12121 (4384)][::PlayerRemoving]: DataModel (LuaApp): 0x1e206032648
+[2026-08-12 16:45:33.888] [RBXClient] [info] [acgplayerfan12121 (4384)]: Waiting for you to enter a game...
+[2026-08-12 16:46:26.892] [RBXClient] [info] [acgplayerfan12121 (4384)]:  Game has loaded (yielding)
+[2026-08-12 16:46:26.892] [RBXClient] [trace] [acgplayerfan12121 (4384)]: Attaching in-game using translation module.
+[2026-08-12 16:46:27.094] [RBXClient] [trace] [acgplayerfan12121 (4384)]: Intercepted translation module @0x1e21ba70400
+[2026-08-12 16:46:27.122] [RBXClient] [trace] [acgplayerfan12121 (4384)][::CRefresh]: Client DataModel refreshed
+[2026-08-12 16:46:27.129] [RBXClient] [trace] [acgplayerfan12121 (4384)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-08-12 16:46:27.139] [RBXClient] [trace] [acgplayerfan12121 (4384)]: Attach ping received from client "acgplayerfan12121", This indicates everything was successful.
+[2026-08-12 16:50:58.445] [RBXClient] [trace] [acgplayerfan12121 (4384)][::PlayerRemoving]: Player leaving ping recieved. We have to reattach.
+[2026-08-12 16:50:58.445] [RBXClient] [trace] [acgplayerfan12121 (4384)][::PlayerRemoving]: DataModel is being loaded...
+[2026-08-12 16:50:58.514] [RBXClient] [trace] 	[acgplayerfan12121 (4384)][::PlayerRemoving]: DataModel was loaded successfully
+[2026-08-12 16:50:58.515] [RBXClient] [trace] [acgplayerfan12121 (4384)][::PlayerRemoving]: DataModel (LuaApp): 0x1e206032648
+[2026-08-12 16:50:58.516] [RBXClient] [info] [acgplayerfan12121 (4384)]: Waiting for you to enter a game...

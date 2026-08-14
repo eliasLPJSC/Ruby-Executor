@@ -1,0 +1,73 @@
+[2026-08-12 13:08:13.641] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-12 13:08:13.641] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-12 13:08:13.641] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-12_13-08-13.log
+[2026-08-12 13:08:13.642] [Xeno] [debug] Client Checker thread: 0xc0f29bef50
+[2026-08-12 13:08:13.642] [Xeno] [debug] Xeno Caching thread: 0xc0f29bef40
+[2026-08-12 13:08:13.642] [Xeno] [debug] WebSockets Cleaner thread: 0xc0f29bef30
+[2026-08-12 13:08:13.642] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-12 13:08:13.642] [Xeno] [debug] Xeno Server thread: 0xc0f29bef20
+[2026-08-12 13:08:13.643] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-12 13:08:13.643] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-12 13:08:13.658] [Xeno] [info] Creating new RBXClient: 23508
+[2026-08-12 13:08:13.658] [RBXClient] [info] [23508]: Initializing...
+[2026-08-12 13:08:13.658] [RBXClient] [info] [23508]: Version: version-d584fb6c717a43d9
+[2026-08-12 13:08:13.658] [Xeno] [debug] Created RBXClient instance @0x29295756ac0
+[2026-08-12 13:08:13.658] [Xeno] [info] Successfully created RBXClient: 23508
+[2026-08-12 13:08:13.658] [RBXClient] [trace] [23508]: Attempting to retrieve RBXClient data...
+[2026-08-12 13:08:13.710] [RBXClient] [trace] [23508]: Successfully retrieved RBXClient data (Primary)
+[2026-08-12 13:08:13.712] [RBXClient] [debug] [23508]: Fetching DataModel...
+[2026-08-12 13:08:13.788] [RBXClient] [debug] [23508]: 	String: 0x1e828e90188
+[2026-08-12 13:08:13.788] [RBXClient] [debug] [23508]: 	RenderView: 0x1e819901880
+[2026-08-12 13:08:14.115] [RBXClient] [debug] [23508]: 2806 candidates found for the instruction
+[2026-08-12 13:08:14.119] [RBXClient] [warning] [23508]: Failed to find a valid instruction candidate. Retrying... Attempts left: 4
+[2026-08-12 13:08:14.413] [RBXClient] [debug] [23508]: 2828 candidates found for the instruction
+[2026-08-12 13:08:14.416] [RBXClient] [warning] [23508]: Failed to find a valid instruction candidate. Retrying... Attempts left: 3
+[2026-08-12 13:08:14.709] [RBXClient] [debug] [23508]: 2748 candidates found for the instruction
+[2026-08-12 13:08:14.712] [RBXClient] [warning] [23508]: Failed to find a valid instruction candidate. Retrying... Attempts left: 2
+[2026-08-12 13:08:15.025] [RBXClient] [debug] [23508]: 2753 candidates found for the instruction
+[2026-08-12 13:08:15.029] [RBXClient] [warning] [23508]: Failed to find a valid instruction candidate. Retrying... Attempts left: 1
+[2026-08-12 13:08:15.326] [RBXClient] [debug] [23508]: 2814 candidates found for the instruction
+[2026-08-12 13:08:15.329] [RBXClient] [warning] [23508]: Failed to find a valid instruction candidate. Retrying... Attempts left: 0
+[2026-08-12 13:08:15.443] [RBXClient] [critical] [23508]: Failed to find a internal function instruction
+[2026-08-12 13:08:17.709] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:17.728] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:17.870] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:17.884] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:18.024] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:18.039] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:18.426] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:18.580] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:18.735] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:24.145] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:24.307] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:24.427] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:24.445] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:24.584] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:24.628] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:24.737] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:24.784] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:24.814] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:24.939] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:24.971] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:25.126] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:28.664] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:28.825] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:28.826] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:28.967] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:28.978] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:28.979] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:29.138] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:29.138] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:29.149] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:29.291] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:29.307] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:29.461] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:29.657] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:29.816] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:29.828] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:29.967] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:29.967] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:29.986] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:30.125] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:30.126] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 13:08:30.282] [Execution] [error] [23508]: Could not find a CoreModule; Client is not attached

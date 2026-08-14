@@ -1,0 +1,26 @@
+[2026-08-12 12:03:48.796] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-12 12:03:48.796] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-12 12:03:48.796] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-12_12-03-48.log
+[2026-08-12 12:03:48.797] [Xeno] [debug] Client Checker thread: 0x265a4fee70
+[2026-08-12 12:03:48.797] [Xeno] [debug] Xeno Caching thread: 0x265a4fee60
+[2026-08-12 12:03:48.798] [Xeno] [debug] WebSockets Cleaner thread: 0x265a4fee50
+[2026-08-12 12:03:48.798] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-12 12:03:48.798] [Xeno] [debug] Xeno Server thread: 0x265a4fee40
+[2026-08-12 12:03:48.798] [Cache] [warning] Failed to read cached client PID #0
+[2026-08-12 12:03:48.798] [Cache] [info] Loaded existing cache: 0 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 1 RBXClientInfos
+[2026-08-12 12:03:48.799] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-12 12:03:48.799] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-12 12:03:48.807] [Xeno] [info] Creating new RBXClient: 19508
+[2026-08-12 12:03:48.807] [RBXClient] [info] [19508]: Initializing...
+[2026-08-12 12:03:48.807] [RBXClient] [info] [19508]: Version: version-d584fb6c717a43d9
+[2026-08-12 12:03:48.807] [Xeno] [debug] Created RBXClient instance @0x1a3d4e2c410
+[2026-08-12 12:03:48.807] [Xeno] [info] Successfully created RBXClient: 19508
+[2026-08-12 12:03:48.807] [RBXClient] [trace] [19508]: Attempting to retrieve RBXClient data...
+[2026-08-12 12:03:48.855] [RBXClient] [trace] [19508]: Successfully retrieved RBXClient data (Primary)
+[2026-08-12 12:03:48.856] [RBXClient] [info] [19508]: RenderView retrieved from Cache: 0x27c3c281880
+[2026-08-12 12:03:49.059] [RBXClient] [debug] [19508]: 2012 candidates found for the instruction
+[2026-08-12 12:03:49.062] [RBXClient] [warning] [19508]: Failed to find a valid instruction candidate. Retrying... Attempts left: 4
+[2026-08-12 12:03:49.343] [RBXClient] [debug] [19508]: 2043 candidates found for the instruction
+[2026-08-12 12:03:49.345] [RBXClient] [warning] [19508]: Failed to find a valid instruction candidate. Retrying... Attempts left: 3
+[2026-08-12 12:03:49.647] [RBXClient] [debug] [19508]: 2038 candidates found for the instruction
+[2026-08-12 12:03:49.649] [RBXClient] [warning] [19508]: Failed to find a valid instruction candidate. Retrying... Attempts left: 2

@@ -1,0 +1,33 @@
+[2026-08-11 18:05:11.607] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-11 18:05:11.607] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-11 18:05:11.607] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-11_18-05-11.log
+[2026-08-11 18:05:11.608] [Xeno] [debug] Client Checker thread: 0x8e20c3ece0
+[2026-08-11 18:05:11.608] [Xeno] [debug] Xeno Caching thread: 0x8e20c3ecd0
+[2026-08-11 18:05:11.609] [Xeno] [debug] WebSockets Cleaner thread: 0x8e20c3ecc0
+[2026-08-11 18:05:11.609] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-11 18:05:11.609] [Xeno] [debug] Xeno Server thread: 0x8e20c3ecb0
+[2026-08-11 18:05:11.609] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-11 18:05:11.609] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-11 18:05:11.620] [Xeno] [info] Creating new RBXClient: 13880
+[2026-08-11 18:05:11.620] [RBXClient] [info] [13880]: Initializing...
+[2026-08-11 18:05:11.620] [RBXClient] [info] [13880]: Version: version-d584fb6c717a43d9
+[2026-08-11 18:05:11.620] [Xeno] [debug] Created RBXClient instance @0x1aa1586e040
+[2026-08-11 18:05:11.620] [Xeno] [info] Successfully created RBXClient: 13880
+[2026-08-11 18:05:11.620] [RBXClient] [trace] [13880]: Attempting to retrieve RBXClient data...
+[2026-08-11 18:05:11.678] [RBXClient] [trace] [13880]: Successfully retrieved RBXClient data (Primary)
+[2026-08-11 18:05:11.679] [RBXClient] [info] [13880]: Waiting for Client Window
+[2026-08-11 18:05:15.640] [Execution] [error] [13880]: DataModel address is invalid
+[2026-08-11 18:05:15.790] [Execution] [error] [13880]: DataModel address is invalid
+[2026-08-11 18:05:15.932] [Execution] [error] [13880]: DataModel address is invalid
+[2026-08-11 18:05:17.158] [RBXClient] [info] [13880]: Client window is now available
+[2026-08-11 18:05:17.158] [RBXClient] [debug] [13880]: Fetching DataModel...
+[2026-08-11 18:05:17.182] [RBXClient] [debug] [13880]: 	String: 0x1d30a0fa408
+[2026-08-11 18:05:17.182] [RBXClient] [debug] [13880]: 	RenderView: 0x1d30a303880
+[2026-08-11 18:05:17.279] [RBXClient] [debug] [13880]: 3058 candidates found for the instruction
+[2026-08-11 18:05:17.282] [RBXClient] [debug] [13880]:  Instruction address: 0x1d3656fc40a
+[2026-08-11 18:05:17.282] [RBXClient] [debug] [13880]: Bytecode Patch Watcher thread: 0x8e24e3f860
+[2026-08-11 18:05:17.282] [RBXClient] [info] [13880]: 	Waiting for DataModel...
+[2026-08-11 18:05:17.718] [RBXClient] [debug] [13880]: DataModel (LuaApp): 0x1d306122648
+[2026-08-11 18:05:17.720] [RBXClient] [debug] [13880]: LocalPlayer: 0x1d3026d6080
+[2026-08-11 18:05:17.720] [RBXClient] [debug] [acgplayerfan12121 (13880)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-11 18:05:17.720] [RBXClient] [info] [acgplayerfan12121 (13880)]: Waiting for you to enter a game...

@@ -1,0 +1,47 @@
+[2026-08-12 18:19:29.327] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-12 18:19:29.327] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-12 18:19:29.327] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-12_18-19-29.log
+[2026-08-12 18:19:29.334] [Xeno] [debug] Client Checker thread: 0x37eb67ed40
+[2026-08-12 18:19:29.334] [Xeno] [debug] Xeno Caching thread: 0x37eb67ed30
+[2026-08-12 18:19:29.334] [Xeno] [debug] WebSockets Cleaner thread: 0x37eb67ed20
+[2026-08-12 18:19:29.335] [Xeno] [debug] Xeno Server thread: 0x37eb67ed10
+[2026-08-12 18:19:29.335] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-12 18:19:29.337] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-12 18:19:29.337] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-12 18:19:29.349] [Xeno] [info] Creating new RBXClient: 22316
+[2026-08-12 18:19:29.349] [RBXClient] [info] [22316]: Initializing...
+[2026-08-12 18:19:29.350] [RBXClient] [info] [22316]: Version: version-ddf602d9cfe44005
+[2026-08-12 18:19:29.350] [Xeno] [debug] Created RBXClient instance @0x1e69ba9d200
+[2026-08-12 18:19:29.350] [Xeno] [info] Successfully created RBXClient: 22316
+[2026-08-12 18:19:29.350] [RBXClient] [trace] [22316]: Attempting to retrieve RBXClient data...
+[2026-08-12 18:19:29.402] [RBXClient] [trace] [22316]: Successfully retrieved RBXClient data (Primary)
+[2026-08-12 18:19:29.403] [RBXClient] [trace] [22316]: Offsets for version "version-ddf602d9cfe44005" points to version "version-2269b67864ab4ad4" with same offsets
+[2026-08-12 18:19:29.403] [RBXClient] [debug] [22316]: Fetching DataModel...
+[2026-08-12 18:19:29.482] [RBXClient] [debug] [22316]: 	String: 0x1f4ae595e10
+[2026-08-12 18:19:29.482] [RBXClient] [debug] [22316]: 	RenderView: 0x1f498a02080
+[2026-08-12 18:19:29.755] [RBXClient] [debug] [22316]: 2595 candidates found for the instruction
+[2026-08-12 18:19:29.758] [RBXClient] [warning] [22316]: Failed to find a valid instruction candidate. Retrying... Attempts left: 4
+[2026-08-12 18:19:30.040] [RBXClient] [debug] [22316]: 2594 candidates found for the instruction
+[2026-08-12 18:19:30.042] [RBXClient] [warning] [22316]: Failed to find a valid instruction candidate. Retrying... Attempts left: 3
+[2026-08-12 18:19:30.306] [RBXClient] [debug] [22316]: 2594 candidates found for the instruction
+[2026-08-12 18:19:30.309] [RBXClient] [warning] [22316]: Failed to find a valid instruction candidate. Retrying... Attempts left: 2
+[2026-08-12 18:19:30.588] [RBXClient] [debug] [22316]: 2601 candidates found for the instruction
+[2026-08-12 18:19:30.590] [RBXClient] [warning] [22316]: Failed to find a valid instruction candidate. Retrying... Attempts left: 1
+[2026-08-12 18:19:30.849] [RBXClient] [debug] [22316]: 2602 candidates found for the instruction
+[2026-08-12 18:19:30.851] [RBXClient] [warning] [22316]: Failed to find a valid instruction candidate. Retrying... Attempts left: 0
+[2026-08-12 18:19:30.956] [RBXClient] [critical] [22316]: Failed to find a internal function instruction
+[2026-08-12 18:19:31.203] [Execution] [error] [22316]: Could not find a CoreModule; Client is not attached
+[2026-08-12 18:19:31.364] [Execution] [error] [22316]: Could not find a CoreModule; Client is not attached
+[2026-08-12 18:19:31.519] [Execution] [error] [22316]: Could not find a CoreModule; Client is not attached
+[2026-08-12 18:19:33.022] [Execution] [error] [22316]: Could not find a CoreModule; Client is not attached
+[2026-08-12 18:19:33.187] [Execution] [error] [22316]: Could not find a CoreModule; Client is not attached
+[2026-08-12 18:19:33.328] [Execution] [error] [22316]: Could not find a CoreModule; Client is not attached
+[2026-08-12 18:19:33.390] [Execution] [error] [22316]: Could not find a CoreModule; Client is not attached
+[2026-08-12 18:19:33.541] [Execution] [error] [22316]: Could not find a CoreModule; Client is not attached
+[2026-08-12 18:19:33.699] [Execution] [error] [22316]: Could not find a CoreModule; Client is not attached
+[2026-08-12 18:19:36.996] [Execution] [error] [22316]: Could not find a CoreModule; Client is not attached
+[2026-08-12 18:19:37.148] [Execution] [error] [22316]: Could not find a CoreModule; Client is not attached
+[2026-08-12 18:19:37.303] [Execution] [error] [22316]: Could not find a CoreModule; Client is not attached
+[2026-08-12 18:19:37.407] [Execution] [error] [22316]: Could not find a CoreModule; Client is not attached
+[2026-08-12 18:19:37.567] [Execution] [error] [22316]: Could not find a CoreModule; Client is not attached
+[2026-08-12 18:19:37.721] [Execution] [error] [22316]: Could not find a CoreModule; Client is not attached

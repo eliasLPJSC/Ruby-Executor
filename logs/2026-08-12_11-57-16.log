@@ -1,0 +1,73 @@
+[2026-08-12 11:57:16.516] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-12 11:57:16.516] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-12 11:57:16.516] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-12_11-57-16.log
+[2026-08-12 11:57:16.522] [Xeno] [debug] Client Checker thread: 0xf3472bec40
+[2026-08-12 11:57:16.522] [Xeno] [debug] Xeno Caching thread: 0xf3472bec30
+[2026-08-12 11:57:16.523] [Xeno] [debug] WebSockets Cleaner thread: 0xf3472bec20
+[2026-08-12 11:57:16.523] [Xeno] [debug] Xeno Server thread: 0xf3472bec10
+[2026-08-12 11:57:16.523] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-12 11:57:16.525] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-12 11:57:16.525] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-12 11:57:16.533] [Xeno] [info] Creating new RBXClient: 19508
+[2026-08-12 11:57:16.534] [RBXClient] [info] [19508]: Initializing...
+[2026-08-12 11:57:16.534] [RBXClient] [info] [19508]: Version: version-d584fb6c717a43d9
+[2026-08-12 11:57:16.534] [Xeno] [debug] Created RBXClient instance @0x251851e34c0
+[2026-08-12 11:57:16.534] [Xeno] [info] Successfully created RBXClient: 19508
+[2026-08-12 11:57:16.534] [RBXClient] [trace] [19508]: Attempting to retrieve RBXClient data...
+[2026-08-12 11:57:16.589] [RBXClient] [trace] [19508]: Successfully retrieved RBXClient data (Primary)
+[2026-08-12 11:57:16.590] [RBXClient] [debug] [19508]: Fetching DataModel...
+[2026-08-12 11:57:17.012] [RBXClient] [debug] [19508]: 	String: 0x27c3bfe9288
+[2026-08-12 11:57:17.012] [RBXClient] [debug] [19508]: 	RenderView: 0x27c3c281880
+[2026-08-12 11:57:17.333] [RBXClient] [debug] [19508]: 1072 candidates found for the instruction
+[2026-08-12 11:57:17.334] [RBXClient] [warning] [19508]: Failed to find a valid instruction candidate. Retrying... Attempts left: 4
+[2026-08-12 11:57:17.572] [RBXClient] [debug] [19508]: 1072 candidates found for the instruction
+[2026-08-12 11:57:17.574] [RBXClient] [warning] [19508]: Failed to find a valid instruction candidate. Retrying... Attempts left: 3
+[2026-08-12 11:57:17.819] [RBXClient] [debug] [19508]: 1072 candidates found for the instruction
+[2026-08-12 11:57:17.821] [RBXClient] [warning] [19508]: Failed to find a valid instruction candidate. Retrying... Attempts left: 2
+[2026-08-12 11:57:18.058] [RBXClient] [debug] [19508]: 1072 candidates found for the instruction
+[2026-08-12 11:57:18.059] [RBXClient] [warning] [19508]: Failed to find a valid instruction candidate. Retrying... Attempts left: 1
+[2026-08-12 11:57:18.287] [RBXClient] [debug] [19508]: 1066 candidates found for the instruction
+[2026-08-12 11:57:18.288] [RBXClient] [warning] [19508]: Failed to find a valid instruction candidate. Retrying... Attempts left: 0
+[2026-08-12 11:57:18.399] [RBXClient] [critical] [19508]: Failed to find a internal function instruction
+[2026-08-12 11:57:20.577] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:20.737] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:20.893] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:39.592] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:39.750] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:39.905] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:40.009] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:40.165] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:40.321] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:40.389] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:40.550] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:40.690] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:47.890] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:48.050] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:48.205] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:48.257] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:48.420] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:48.560] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:50.393] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:50.554] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:50.693] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:50.878] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:51.034] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:51.079] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:51.186] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:51.232] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:51.385] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:53.462] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:53.623] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:53.630] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:53.763] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:53.794] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:53.802] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:53.933] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:53.964] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:53.975] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:54.103] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:54.135] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:54.138] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:54.278] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:54.294] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached
+[2026-08-12 11:57:54.450] [Execution] [error] [19508]: Could not find a CoreModule; Client is not attached

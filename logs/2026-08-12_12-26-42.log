@@ -1,0 +1,60 @@
+[2026-08-12 12:26:42.782] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-12 12:26:42.783] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-12 12:26:42.783] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-12_12-26-42.log
+[2026-08-12 12:26:42.788] [Xeno] [debug] Client Checker thread: 0x8f720be860
+[2026-08-12 12:26:42.789] [Xeno] [debug] Xeno Caching thread: 0x8f720be850
+[2026-08-12 12:26:42.789] [Xeno] [debug] WebSockets Cleaner thread: 0x8f720be840
+[2026-08-12 12:26:42.789] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-12 12:26:42.789] [Xeno] [debug] Xeno Server thread: 0x8f720be830
+[2026-08-12 12:26:42.790] [Cache] [info] Reattaching to cached client PID: 31420
+[2026-08-12 12:26:42.790] [Cache] [info] Loaded existing cache: 1 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 1 RBXClientInfos
+[2026-08-12 12:26:42.790] [Xeno] [info] Creating new RBXClient: 31420
+[2026-08-12 12:26:42.790] [RBXClient] [info] [31420]: Initializing...
+[2026-08-12 12:26:42.790] [RBXClient] [info] [31420]: Version: version-d584fb6c717a43d9
+[2026-08-12 12:26:42.790] [Xeno] [debug] Created RBXClient instance @0x25af0002820
+[2026-08-12 12:26:42.791] [Xeno] [info] Successfully created RBXClient: 31420
+[2026-08-12 12:26:42.791] [RBXClient] [trace] [31420]: Attempting to retrieve RBXClient data...
+[2026-08-12 12:26:42.791] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-12 12:26:42.791] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-12 12:26:42.839] [RBXClient] [trace] [31420]: Successfully retrieved RBXClient data (Primary)
+[2026-08-12 12:26:42.840] [Cache] [trace] [31420]: Client was previously activated and handled successfully
+[2026-08-12 12:26:42.840] [RBXClient] [info] [31420]: RenderView retrieved from Cache: 0x220095c3080
+[2026-08-12 12:26:43.010] [RBXClient] [debug] [31420]: 1754 candidates found for the instruction
+[2026-08-12 12:26:43.011] [RBXClient] [debug] [31420]:  Instruction address: 0x22055e2c40a
+[2026-08-12 12:26:43.011] [RBXClient] [debug] [31420]: Bytecode Patch Watcher thread: 0x8f738bf6a0
+[2026-08-12 12:26:43.013] [RBXClient] [debug] [31420]: DataModel (LuaApp): 0x22006173248
+[2026-08-12 12:26:43.014] [RBXClient] [debug] [31420]: LocalPlayer: 0x220063e4880
+[2026-08-12 12:26:43.014] [RBXClient] [debug] [acgplayerfan12121 (31420)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-12 12:26:43.014] [RBXClient] [info] [acgplayerfan12121 (31420)]: Waiting for you to enter a game...
+[2026-08-12 12:26:46.831] [Execution] [error] [31420]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-12 12:26:46.985] [Execution] [error] [31420]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-12 12:26:47.138] [Execution] [error] [31420]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-12 12:26:51.668] [Execution] [error] [31420]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-12 12:26:51.833] [Execution] [error] [31420]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-12 12:26:51.862] [RBXClient] [info] [acgplayerfan12121 (31420)]:  Game has loaded (yielding)
+[2026-08-12 12:26:51.863] [RBXClient] [trace] [acgplayerfan12121 (31420)]: Attaching in-game using translation module.
+[2026-08-12 12:26:51.863] [Xeno] [debug] Patched translation module @0x2203bb944c0
+[2026-08-12 12:26:51.971] [Execution] [error] [31420]: Could not find a CoreModule; Client is not attached
+[2026-08-12 12:26:52.103] [RBXClient] [trace] [acgplayerfan12121 (31420)]: Intercepted translation module @0x2203bb944c0
+[2026-08-12 12:26:52.688] [RBXClient] [warning] [acgplayerfan12121 (31420)]: Xeno was fast enough to attach using in menu method as the user was joining the game.
+[2026-08-12 12:26:52.783] [Execution] [error] [31420]: Could not find a CoreModule
+[2026-08-12 12:26:52.946] [Execution] [error] [31420]: Could not find a CoreModule
+[2026-08-12 12:26:52.993] [Execution] [error] [31420]: Could not find a CoreModule
+[2026-08-12 12:26:53.084] [Execution] [error] [31420]: Could not find a CoreModule
+[2026-08-12 12:26:53.142] [Execution] [error] [31420]: Could not find a CoreModule
+[2026-08-12 12:26:53.143] [Execution] [error] [31420]: Could not find a CoreModule
+[2026-08-12 12:26:53.301] [Execution] [error] [31420]: Could not find a CoreModule
+[2026-08-12 12:26:53.302] [Execution] [error] [31420]: Could not find a CoreModule
+[2026-08-12 12:26:53.455] [Execution] [error] [31420]: Could not find a CoreModule
+[2026-08-12 12:26:57.139] [RBXClient] [trace] [acgplayerfan12121 (31420)][::BytecodePatchWatcherT]: Threshold reached. Workers failed to call restore (Automatically restoring to prevent crash)
+[2026-08-12 12:26:58.826] [Execution] [error] [31420]: Could not find a CoreModule
+[2026-08-12 12:26:58.987] [Execution] [error] [31420]: Could not find a CoreModule
+[2026-08-12 12:26:59.141] [Execution] [error] [31420]: Could not find a CoreModule
+[2026-08-12 12:27:01.502] [Execution] [error] [31420]: Could not find a CoreModule
+[2026-08-12 12:27:01.650] [Execution] [error] [31420]: Could not find a CoreModule
+[2026-08-12 12:27:01.783] [Execution] [error] [31420]: Could not find a CoreModule
+[2026-08-12 12:27:01.804] [Execution] [error] [31420]: Could not find a CoreModule
+[2026-08-12 12:27:01.942] [Execution] [error] [31420]: Could not find a CoreModule
+[2026-08-12 12:27:02.083] [Execution] [error] [31420]: Could not find a CoreModule
+[2026-08-12 12:27:02.468] [RBXClient] [trace] [acgplayerfan12121 (31420)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-08-12 12:27:02.468] [Xeno] [info] Removed RBXClient: 31420

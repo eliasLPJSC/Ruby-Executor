@@ -1,0 +1,36 @@
+[2026-08-12 12:18:36.012] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-12 12:18:36.012] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-12 12:18:36.012] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-12_12-18-36.log
+[2026-08-12 12:18:36.013] [Xeno] [debug] Client Checker thread: 0x6ac007e8e0
+[2026-08-12 12:18:36.013] [Xeno] [debug] Xeno Caching thread: 0x6ac007e8d0
+[2026-08-12 12:18:36.013] [Xeno] [debug] WebSockets Cleaner thread: 0x6ac007e8c0
+[2026-08-12 12:18:36.013] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-12 12:18:36.014] [Xeno] [debug] Xeno Server thread: 0x6ac007e8b0
+[2026-08-12 12:18:36.014] [Cache] [info] Reattaching to cached client PID: 31420
+[2026-08-12 12:18:36.014] [Cache] [info] Loaded existing cache: 1 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 1 RBXClientInfos
+[2026-08-12 12:18:36.014] [Xeno] [info] Creating new RBXClient: 31420
+[2026-08-12 12:18:36.014] [RBXClient] [info] [31420]: Initializing...
+[2026-08-12 12:18:36.014] [RBXClient] [info] [31420]: Version: version-d584fb6c717a43d9
+[2026-08-12 12:18:36.014] [Xeno] [debug] Created RBXClient instance @0x23ea8b0b7e0
+[2026-08-12 12:18:36.014] [Xeno] [info] Successfully created RBXClient: 31420
+[2026-08-12 12:18:36.014] [RBXClient] [trace] [31420]: Attempting to retrieve RBXClient data...
+[2026-08-12 12:18:36.014] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-12 12:18:36.015] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-12 12:18:36.068] [RBXClient] [trace] [31420]: Successfully retrieved RBXClient data (Primary)
+[2026-08-12 12:18:36.069] [Cache] [trace] [31420]: Client was previously activated and handled successfully
+[2026-08-12 12:18:36.069] [RBXClient] [info] [31420]: RenderView retrieved from Cache: 0x220095c3080
+[2026-08-12 12:18:36.244] [RBXClient] [debug] [31420]: 2055 candidates found for the instruction
+[2026-08-12 12:18:36.247] [RBXClient] [debug] [31420]:  Instruction address: 0x22055e2c40a
+[2026-08-12 12:18:36.247] [RBXClient] [debug] [31420]: Bytecode Patch Watcher thread: 0x6ac097f760
+[2026-08-12 12:18:36.248] [RBXClient] [debug] [31420]: DataModel (Ugc): 0x220094b3248
+[2026-08-12 12:18:36.248] [RBXClient] [debug] [31420]: LocalPlayer: 0x220228ad880
+[2026-08-12 12:18:36.248] [RBXClient] [debug] [acgplayerfan12121 (31420)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-12 12:18:36.249] [RBXClient] [info] [acgplayerfan12121 (31420)]: Client was already attached, handling important core functions for the client :D
+[2026-08-12 12:18:41.642] [Execution] [warning] [31420]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 12:18:48.215] [Execution] [warning] [31420]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 12:18:48.552] [Execution] [warning] [31420]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 12:19:42.787] [RBXClient] [trace] [acgplayerfan12121 (31420)][::PlayerRemoving]: Player leaving ping recieved. We have to reattach.
+[2026-08-12 12:19:42.787] [RBXClient] [trace] [acgplayerfan12121 (31420)][::PlayerRemoving]: DataModel is being loaded...
+[2026-08-12 12:19:42.858] [RBXClient] [trace] 	[acgplayerfan12121 (31420)][::PlayerRemoving]: DataModel was loaded successfully
+[2026-08-12 12:19:42.859] [RBXClient] [trace] [acgplayerfan12121 (31420)][::PlayerRemoving]: DataModel (LuaApp): 0x22006173248
+[2026-08-12 12:19:42.859] [RBXClient] [info] [acgplayerfan12121 (31420)]: Waiting for you to enter a game...

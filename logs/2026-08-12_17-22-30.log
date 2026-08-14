@@ -1,0 +1,34 @@
+[2026-08-12 17:22:30.809] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-12 17:22:30.809] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-12 17:22:30.809] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-12_17-22-30.log
+[2026-08-12 17:22:30.810] [Xeno] [debug] Client Checker thread: 0x81f023eee0
+[2026-08-12 17:22:30.811] [Xeno] [debug] Xeno Caching thread: 0x81f023eed0
+[2026-08-12 17:22:30.811] [Xeno] [debug] WebSockets Cleaner thread: 0x81f023eec0
+[2026-08-12 17:22:30.811] [Xeno] [debug] Xeno Server thread: 0x81f023eeb0
+[2026-08-12 17:22:30.811] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-12 17:22:30.812] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-12 17:22:30.812] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-12 17:22:30.826] [Xeno] [info] Creating new RBXClient: 7512
+[2026-08-12 17:22:30.826] [RBXClient] [info] [7512]: Initializing...
+[2026-08-12 17:22:30.826] [RBXClient] [info] [7512]: Version: version-d584fb6c717a43d9
+[2026-08-12 17:22:30.826] [Xeno] [debug] Created RBXClient instance @0x1e71b9fbef0
+[2026-08-12 17:22:30.826] [Xeno] [info] Successfully created RBXClient: 7512
+[2026-08-12 17:22:30.826] [RBXClient] [trace] [7512]: Attempting to retrieve RBXClient data...
+[2026-08-12 17:22:30.873] [RBXClient] [trace] [7512]: Successfully retrieved RBXClient data (Primary)
+[2026-08-12 17:22:30.873] [RBXClient] [debug] [7512]: Fetching DataModel...
+[2026-08-12 17:22:30.926] [RBXClient] [debug] [7512]: 	String: 0x1c193310908
+[2026-08-12 17:22:30.926] [RBXClient] [debug] [7512]: 	RenderView: 0x1c193431880
+[2026-08-12 17:22:31.189] [RBXClient] [debug] [7512]: 3434 candidates found for the instruction
+[2026-08-12 17:22:31.194] [RBXClient] [debug] [7512]:  Instruction address: 0x1c180dac40a
+[2026-08-12 17:22:31.194] [RBXClient] [debug] [7512]: Bytecode Patch Watcher thread: 0x81f503f910
+[2026-08-12 17:22:31.196] [RBXClient] [debug] [7512]: DataModel (Ugc): 0x1c1a5ff5648
+[2026-08-12 17:22:31.197] [RBXClient] [debug] [7512]: LocalPlayer: 0x1c1a9c70080
+[2026-08-12 17:22:31.197] [RBXClient] [debug] [acgplayerfan12121 (7512)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-12 17:22:31.198] [RBXClient] [trace] [acgplayerfan12121 (7512)]: Attaching in-game using translation module.
+[2026-08-12 17:22:31.198] [Xeno] [debug] Patched translation module @0x1c1a4a291c0
+[2026-08-12 17:22:31.415] [RBXClient] [trace] [acgplayerfan12121 (7512)]: Intercepted translation module @0x1c1a4a291c0
+[2026-08-12 17:22:31.453] [RBXClient] [trace] [acgplayerfan12121 (7512)][::CRefresh]: Client DataModel refreshed
+[2026-08-12 17:22:31.463] [RBXClient] [trace] [acgplayerfan12121 (7512)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-08-12 17:22:31.479] [RBXClient] [trace] [acgplayerfan12121 (7512)]: Attach ping received from client "acgplayerfan12121", This indicates everything was successful.
+[2026-08-12 17:22:33.195] [Execution] [warning] [7512]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 17:22:35.365] [Execution] [warning] [7512]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)

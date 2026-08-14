@@ -1,0 +1,40 @@
+[2026-08-12 13:33:42.399] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-12 13:33:42.399] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-12 13:33:42.399] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-12_13-33-42.log
+[2026-08-12 13:33:42.400] [Xeno] [debug] Client Checker thread: 0xd879e7ecb0
+[2026-08-12 13:33:42.400] [Xeno] [debug] Xeno Caching thread: 0xd879e7eca0
+[2026-08-12 13:33:42.400] [Xeno] [debug] WebSockets Cleaner thread: 0xd879e7ec90
+[2026-08-12 13:33:42.401] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-12 13:33:42.401] [Xeno] [debug] Xeno Server thread: 0xd879e7ec80
+[2026-08-12 13:33:42.401] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-12 13:33:42.401] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-12 13:33:42.417] [Xeno] [info] Creating new RBXClient: 31224
+[2026-08-12 13:33:42.417] [RBXClient] [info] [31224]: Initializing...
+[2026-08-12 13:33:42.417] [RBXClient] [info] [31224]: Version: version-d584fb6c717a43d9
+[2026-08-12 13:33:42.417] [Xeno] [debug] Created RBXClient instance @0x2061951b9f0
+[2026-08-12 13:33:42.417] [Xeno] [info] Successfully created RBXClient: 31224
+[2026-08-12 13:33:42.417] [RBXClient] [trace] [31224]: Attempting to retrieve RBXClient data...
+[2026-08-12 13:33:42.469] [RBXClient] [trace] [31224]: Successfully retrieved RBXClient data (Primary)
+[2026-08-12 13:33:42.470] [RBXClient] [debug] [31224]: Fetching DataModel...
+[2026-08-12 13:33:42.525] [RBXClient] [debug] [31224]: 	String: 0x14c345a1308
+[2026-08-12 13:33:42.525] [RBXClient] [debug] [31224]: 	RenderView: 0x14c1cf43080
+[2026-08-12 13:33:42.672] [RBXClient] [debug] [31224]: 12107 candidates found for the instruction
+[2026-08-12 13:33:42.685] [RBXClient] [debug] [31224]:  Instruction address: 0x14b0954c40a
+[2026-08-12 13:33:42.686] [RBXClient] [debug] [31224]: Bytecode Patch Watcher thread: 0xd87dd7f6d0
+[2026-08-12 13:33:42.687] [RBXClient] [debug] [31224]: DataModel (Ugc): 0x14c26f4ce48
+[2026-08-12 13:33:42.688] [RBXClient] [debug] [31224]: LocalPlayer: 0x14c39b84880
+[2026-08-12 13:33:42.688] [RBXClient] [debug] [acgplayerfan12121 (31224)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-12 13:33:42.689] [RBXClient] [trace] [acgplayerfan12121 (31224)]: Attaching in-game using translation module.
+[2026-08-12 13:33:42.689] [Xeno] [debug] Patched translation module @0x14c1818ac00
+[2026-08-12 13:33:42.909] [RBXClient] [trace] [acgplayerfan12121 (31224)]: Intercepted translation module @0x14c1818ac00
+[2026-08-12 13:33:42.925] [RBXClient] [trace] [acgplayerfan12121 (31224)][::CRefresh]: Client DataModel refreshed
+[2026-08-12 13:33:42.933] [RBXClient] [trace] [acgplayerfan12121 (31224)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-08-12 13:33:42.948] [RBXClient] [trace] [acgplayerfan12121 (31224)]: Attach ping received from client "acgplayerfan12121", This indicates everything was successful.
+[2026-08-12 13:33:46.831] [Execution] [warning] [31224]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 13:33:55.047] [WebSocket] [error] [31224]: WebSocket returned error "(Unable to connect to echo.websocket.events on port 80, error: Hôte inconnu. )" for url 'ws://echo.websocket.events'
+[2026-08-12 13:34:17.938] [RBXClient] [trace] [acgplayerfan12121 (31224)][::PlayerRemoving]: Player leaving ping recieved. We have to reattach.
+[2026-08-12 13:34:17.938] [RBXClient] [trace] [acgplayerfan12121 (31224)][::PlayerRemoving]: DataModel is being loaded...
+[2026-08-12 13:34:18.866] [RBXClient] [critical] [acgplayerfan12121 (31224)]: [acgplayerfan12121 (31224)][::PlayerRemoving]: Client was closed while reattaching
+[2026-08-12 13:34:19.051] [RBXClient] [trace] [acgplayerfan12121 (31224)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-08-12 13:34:19.051] [Xeno] [info] Removed RBXClient: 31224
+[2026-08-12 13:34:24.051] [Xeno] [info] Cleaned up '31224' from InitializedClients

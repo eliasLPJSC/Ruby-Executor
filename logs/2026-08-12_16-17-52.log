@@ -1,0 +1,40 @@
+[2026-08-12 16:17:52.662] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-12 16:17:52.663] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-12 16:17:52.663] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-12_16-17-52.log
+[2026-08-12 16:17:52.669] [Xeno] [debug] Client Checker thread: 0xd4a5bed60
+[2026-08-12 16:17:52.669] [Xeno] [debug] Xeno Caching thread: 0xd4a5bed50
+[2026-08-12 16:17:52.669] [Xeno] [debug] WebSockets Cleaner thread: 0xd4a5bed40
+[2026-08-12 16:17:52.669] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-12 16:17:52.669] [Xeno] [debug] Xeno Server thread: 0xd4a5bed30
+[2026-08-12 16:17:52.670] [Cache] [info] Reattaching to cached client PID: 20572
+[2026-08-12 16:17:52.670] [Cache] [info] Loaded existing cache: 1 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 1 RBXClientInfos
+[2026-08-12 16:17:52.670] [Xeno] [info] Creating new RBXClient: 20572
+[2026-08-12 16:17:52.670] [RBXClient] [info] [20572]: Initializing...
+[2026-08-12 16:17:52.671] [RBXClient] [info] [20572]: Version: version-d584fb6c717a43d9
+[2026-08-12 16:17:52.671] [Xeno] [debug] Created RBXClient instance @0x1cc95b87a60
+[2026-08-12 16:17:52.671] [Xeno] [info] Successfully created RBXClient: 20572
+[2026-08-12 16:17:52.671] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-12 16:17:52.671] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-12 16:17:52.671] [RBXClient] [trace] [20572]: Attempting to retrieve RBXClient data...
+[2026-08-12 16:17:52.724] [RBXClient] [trace] [20572]: Successfully retrieved RBXClient data (Primary)
+[2026-08-12 16:17:52.726] [Cache] [trace] [20572]: Client was previously activated and handled successfully
+[2026-08-12 16:17:52.726] [RBXClient] [info] [20572]: RenderView retrieved from Cache: 0x2b721413880
+[2026-08-12 16:17:52.958] [RBXClient] [debug] [20572]: 1977 candidates found for the instruction
+[2026-08-12 16:17:52.960] [RBXClient] [debug] [20572]:  Instruction address: 0x2b60fa6c40a
+[2026-08-12 16:17:52.960] [RBXClient] [debug] [20572]: Bytecode Patch Watcher thread: 0xd4babf410
+[2026-08-12 16:17:52.961] [RBXClient] [debug] [20572]: DataModel (Ugc): 0x2b72d98f248
+[2026-08-12 16:17:52.962] [RBXClient] [debug] [20572]: LocalPlayer: 0x2b72dc60080
+[2026-08-12 16:17:52.962] [RBXClient] [debug] [acgplayerfan12121 (20572)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-12 16:17:52.963] [RBXClient] [info] [acgplayerfan12121 (20572)]: Client was already attached, handling important core functions for the client :D
+[2026-08-12 16:17:57.055] [Execution] [warning] [20572]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 16:17:57.411] [Execution] [warning] [20572]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 16:17:57.626] [Execution] [warning] [20572]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 16:17:57.841] [Execution] [warning] [20572]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 16:17:58.055] [Execution] [warning] [20572]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 16:17:58.269] [Execution] [warning] [20572]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 16:17:58.484] [Execution] [warning] [20572]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 16:17:58.699] [Execution] [warning] [20572]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 16:17:58.916] [Execution] [warning] [20572]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 16:18:03.436] [WebSocket] [error] [20572]: WebSocket returned error "(Unable to connect to echo.websocket.events on port 80, error: Hôte inconnu. )" for url 'ws://echo.websocket.events'
+[2026-08-12 16:18:09.935] [RBXClient] [trace] [acgplayerfan12121 (20572)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-08-12 16:18:09.935] [Xeno] [info] Removed RBXClient: 20572

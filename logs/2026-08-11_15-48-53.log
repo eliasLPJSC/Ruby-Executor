@@ -1,0 +1,47 @@
+[2026-08-11 15:48:53.827] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-11 15:48:53.827] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-11 15:48:53.827] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-11_15-48-53.log
+[2026-08-11 15:48:53.828] [Xeno] [debug] Client Checker thread: 0x9fe537d7e0
+[2026-08-11 15:48:53.829] [Xeno] [debug] Xeno Caching thread: 0x9fe537d7d0
+[2026-08-11 15:48:53.829] [Xeno] [debug] WebSockets Cleaner thread: 0x9fe537d7c0
+[2026-08-11 15:48:53.829] [Xeno] [debug] Xeno Server thread: 0x9fe537d7b0
+[2026-08-11 15:48:53.829] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-11 15:48:53.830] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-11 15:48:53.830] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-11 15:48:53.830] [Cache] [info] Reattaching to cached client PID: 10596
+[2026-08-11 15:48:53.830] [Cache] [info] Loaded existing cache: 1 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 0 RBXClientInfos
+[2026-08-11 15:48:53.830] [Xeno] [info] Creating new RBXClient: 10596
+[2026-08-11 15:48:53.830] [RBXClient] [info] [10596]: Initializing...
+[2026-08-11 15:48:53.830] [RBXClient] [info] [10596]: Version: version-d584fb6c717a43d9
+[2026-08-11 15:48:53.830] [Xeno] [debug] Created RBXClient instance @0x1b715b00aa0
+[2026-08-11 15:48:53.830] [Xeno] [info] Successfully created RBXClient: 10596
+[2026-08-11 15:48:53.831] [RBXClient] [trace] [10596]: Attempting to retrieve RBXClient data...
+[2026-08-11 15:48:53.892] [RBXClient] [trace] [10596]: Successfully retrieved RBXClient data (Primary)
+[2026-08-11 15:48:53.893] [RBXClient] [info] [10596]: Waiting for Client Window
+[2026-08-11 15:48:57.954] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 15:48:58.115] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 15:48:58.268] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 15:49:01.431] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 15:49:01.594] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 15:49:01.732] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 15:49:01.845] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 15:49:01.994] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 15:49:02.030] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 15:49:02.149] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 15:49:02.194] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 15:49:02.332] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 15:49:02.339] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 15:49:02.488] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 15:49:02.525] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 15:49:02.643] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 15:49:02.674] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 15:49:02.733] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 15:49:02.826] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 15:49:02.888] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 15:49:02.989] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 15:49:03.043] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 15:49:03.150] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 15:49:03.288] [Execution] [error] [10596]: DataModel address is invalid
+[2026-08-11 15:49:03.934] [RBXClient] [critical] [10596]: Timeout (10s) exceeded while waiting for window
+[2026-08-11 15:49:03.935] [RBXClient] [trace] [[!] Failed (10596)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-08-11 15:49:03.935] [Xeno] [info] Removed RBXClient: 10596

@@ -1,0 +1,37 @@
+[2026-08-12 16:51:13.782] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-12 16:51:13.782] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-12 16:51:13.782] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-12_16-51-13.log
+[2026-08-12 16:51:13.783] [Xeno] [debug] Client Checker thread: 0x43382fe890
+[2026-08-12 16:51:13.783] [Xeno] [debug] Xeno Caching thread: 0x43382fe880
+[2026-08-12 16:51:13.784] [Xeno] [debug] WebSockets Cleaner thread: 0x43382fe870
+[2026-08-12 16:51:13.784] [Xeno] [debug] Xeno Server thread: 0x43382fe860
+[2026-08-12 16:51:13.784] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-12 16:51:13.784] [Cache] [info] Reattaching to cached client PID: 4384
+[2026-08-12 16:51:13.784] [Cache] [info] Loaded existing cache: 1 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 1 RBXClientInfos
+[2026-08-12 16:51:13.784] [Xeno] [info] Creating new RBXClient: 4384
+[2026-08-12 16:51:13.784] [RBXClient] [info] [4384]: Initializing...
+[2026-08-12 16:51:13.784] [RBXClient] [info] [4384]: Version: version-d584fb6c717a43d9
+[2026-08-12 16:51:13.784] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-12 16:51:13.784] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-12 16:51:13.784] [Xeno] [debug] Created RBXClient instance @0x15215705ce0
+[2026-08-12 16:51:13.785] [Xeno] [info] Successfully created RBXClient: 4384
+[2026-08-12 16:51:13.785] [RBXClient] [trace] [4384]: Attempting to retrieve RBXClient data...
+[2026-08-12 16:51:13.838] [RBXClient] [trace] [4384]: Successfully retrieved RBXClient data (Primary)
+[2026-08-12 16:51:13.839] [Cache] [trace] [4384]: Client was previously activated and handled successfully
+[2026-08-12 16:51:13.839] [RBXClient] [info] [4384]: RenderView retrieved from Cache: 0x1e209843880
+[2026-08-12 16:51:14.049] [RBXClient] [debug] [4384]: 3140 candidates found for the instruction
+[2026-08-12 16:51:14.053] [RBXClient] [debug] [4384]:  Instruction address: 0x1e24fa1c40a
+[2026-08-12 16:51:14.053] [RBXClient] [debug] [4384]: Bytecode Patch Watcher thread: 0x43391ff9a0
+[2026-08-12 16:51:14.054] [RBXClient] [debug] [4384]: DataModel (Ugc): 0x1e207f46e48
+[2026-08-12 16:51:14.056] [RBXClient] [debug] [4384]: LocalPlayer: 0x1e233f0d880
+[2026-08-12 16:51:14.056] [RBXClient] [debug] [acgplayerfan12121 (4384)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-12 16:51:14.056] [RBXClient] [trace] [acgplayerfan12121 (4384)]: Attaching in-game using translation module.
+[2026-08-12 16:51:14.057] [Xeno] [debug] Patched translation module @0x1e3e7fd1200
+[2026-08-12 16:51:14.237] [RBXClient] [trace] [acgplayerfan12121 (4384)]: Intercepted translation module @0x1e3e7fd1200
+[2026-08-12 16:51:14.249] [RBXClient] [trace] [acgplayerfan12121 (4384)][::CRefresh]: Client DataModel refreshed
+[2026-08-12 16:51:14.257] [RBXClient] [trace] [acgplayerfan12121 (4384)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-08-12 16:51:18.229] [Execution] [warning] [4384]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 16:51:18.522] [Execution] [warning] [4384]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 16:51:18.864] [Execution] [warning] [4384]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 16:51:19.096] [Execution] [warning] [4384]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 16:51:26.402] [WebSocket] [error] [4384]: WebSocket returned error "(Unable to connect to echo.websocket.events on port 80, error: Hôte inconnu. )" for url 'ws://echo.websocket.events'

@@ -1,0 +1,46 @@
+[2026-08-11 17:32:43.976] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-11 17:32:43.976] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-11 17:32:43.976] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-11_17-32-43.log
+[2026-08-11 17:32:43.977] [Xeno] [debug] Client Checker thread: 0x10837ebb0
+[2026-08-11 17:32:43.977] [Xeno] [debug] Xeno Caching thread: 0x10837eba0
+[2026-08-11 17:32:43.977] [Xeno] [debug] WebSockets Cleaner thread: 0x10837eb90
+[2026-08-11 17:32:43.977] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-11 17:32:43.977] [Xeno] [debug] Xeno Server thread: 0x10837eb80
+[2026-08-11 17:32:43.977] [Cache] [info] Reattaching to cached client PID: 25952
+[2026-08-11 17:32:43.978] [Cache] [info] Loaded existing cache: 1 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 1 RBXClientInfos
+[2026-08-11 17:32:43.978] [Xeno] [info] Creating new RBXClient: 25952
+[2026-08-11 17:32:43.978] [RBXClient] [info] [25952]: Initializing...
+[2026-08-11 17:32:43.978] [RBXClient] [info] [25952]: Version: version-d584fb6c717a43d9
+[2026-08-11 17:32:43.978] [Xeno] [debug] Created RBXClient instance @0x1948841f660
+[2026-08-11 17:32:43.978] [Xeno] [info] Successfully created RBXClient: 25952
+[2026-08-11 17:32:43.978] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-11 17:32:43.978] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-11 17:32:43.978] [RBXClient] [trace] [25952]: Attempting to retrieve RBXClient data...
+[2026-08-11 17:32:44.018] [RBXClient] [trace] [25952]: Successfully retrieved RBXClient data (Primary)
+[2026-08-11 17:32:44.019] [Cache] [trace] [25952]: Client was previously activated and handled successfully
+[2026-08-11 17:32:44.019] [RBXClient] [info] [25952]: RenderView retrieved from Cache: 0x233b54b3880
+[2026-08-11 17:32:44.140] [RBXClient] [debug] [25952]: 1571 candidates found for the instruction
+[2026-08-11 17:32:44.142] [RBXClient] [debug] [25952]:  Instruction address: 0x232a3dcc40a
+[2026-08-11 17:32:44.142] [RBXClient] [debug] [25952]: Bytecode Patch Watcher thread: 0x108f7f670
+[2026-08-11 17:32:44.143] [RBXClient] [debug] [25952]: DataModel (LuaApp): 0x233b20d2648
+[2026-08-11 17:32:44.144] [RBXClient] [debug] [25952]: LocalPlayer: 0x233b68a4880
+[2026-08-11 17:32:44.144] [RBXClient] [debug] [acgplayerfan12121 (25952)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-11 17:32:44.144] [RBXClient] [info] [acgplayerfan12121 (25952)]: Waiting for you to enter a game...
+[2026-08-11 17:32:48.027] [Execution] [error] [25952]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-11 17:32:48.186] [Execution] [error] [25952]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-11 17:32:48.339] [Execution] [error] [25952]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-11 17:33:03.162] [RBXClient] [trace] [acgplayerfan12121 (25952)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-08-11 17:33:03.162] [Xeno] [info] Removed RBXClient: 25952
+[2026-08-11 17:33:03.178] [RBXClient] [critical] [ (25952)]: Client was closed while waiting to enter a game
+[2026-08-11 17:33:05.828] [Xeno] [info] Creating new RBXClient: 29292
+[2026-08-11 17:33:05.828] [RBXClient] [info] [29292]: Initializing...
+[2026-08-11 17:33:05.828] [RBXClient] [info] [29292]: Version: version-d584fb6c717a43d9
+[2026-08-11 17:33:05.828] [Xeno] [debug] Created RBXClient instance @0x1948841e080
+[2026-08-11 17:33:05.828] [Xeno] [info] Successfully created RBXClient: 29292
+[2026-08-11 17:33:05.828] [RBXClient] [trace] [29292]: Attempting to retrieve RBXClient data...
+[2026-08-11 17:33:05.868] [RBXClient] [trace] [29292]: Successfully retrieved RBXClient data (Primary)
+[2026-08-11 17:33:05.868] [RBXClient] [info] [29292]: Waiting for Client Window
+[2026-08-11 17:33:08.164] [Xeno] [info] Cleaned up '25952' from InitializedClients
+[2026-08-11 17:33:09.848] [Execution] [error] [29292]: DataModel address is invalid
+[2026-08-11 17:33:10.000] [Execution] [error] [29292]: DataModel address is invalid
+[2026-08-11 17:33:10.153] [Execution] [error] [29292]: DataModel address is invalid

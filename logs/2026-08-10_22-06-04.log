@@ -1,0 +1,66 @@
+[2026-08-10 22:06:04.426] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-10 22:06:04.426] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-10 22:06:04.426] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-10_22-06-04.log
+[2026-08-10 22:06:04.427] [Xeno] [debug] Client Checker thread: 0xdd9d57d660
+[2026-08-10 22:06:04.427] [Xeno] [debug] Xeno Caching thread: 0xdd9d57d650
+[2026-08-10 22:06:04.427] [Xeno] [debug] WebSockets Cleaner thread: 0xdd9d57d640
+[2026-08-10 22:06:04.427] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-10 22:06:04.427] [Xeno] [debug] Xeno Server thread: 0xdd9d57d630
+[2026-08-10 22:06:04.428] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-10 22:06:04.428] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-10 22:06:04.439] [Xeno] [info] Creating new RBXClient: 27820
+[2026-08-10 22:06:04.439] [RBXClient] [info] [27820]: Initializing...
+[2026-08-10 22:06:04.439] [RBXClient] [info] [27820]: Version: version-d584fb6c717a43d9
+[2026-08-10 22:06:04.439] [Xeno] [debug] Created RBXClient instance @0x287955536f0
+[2026-08-10 22:06:04.439] [Xeno] [info] Successfully created RBXClient: 27820
+[2026-08-10 22:06:04.439] [RBXClient] [trace] [27820]: Attempting to retrieve RBXClient data...
+[2026-08-10 22:06:04.482] [RBXClient] [trace] [27820]: Successfully retrieved RBXClient data (Primary)
+[2026-08-10 22:06:04.482] [RBXClient] [debug] [27820]: Fetching DataModel...
+[2026-08-10 22:06:04.526] [RBXClient] [debug] [27820]: 	String: 0x1609aa59508
+[2026-08-10 22:06:04.526] [RBXClient] [debug] [27820]: 	RenderView: 0x1609ac33080
+[2026-08-10 22:06:04.809] [RBXClient] [debug] [27820]: 2067 candidates found for the instruction
+[2026-08-10 22:06:04.811] [RBXClient] [debug] [27820]:  Instruction address: 0x15f8977c40a
+[2026-08-10 22:06:04.812] [RBXClient] [debug] [27820]: Bytecode Patch Watcher thread: 0xdda7f3faa0
+[2026-08-10 22:06:04.813] [RBXClient] [debug] [27820]: DataModel (Ugc): 0x16094fe0248
+[2026-08-10 22:06:04.814] [RBXClient] [debug] [27820]: LocalPlayer: 0x160ab3c1880
+[2026-08-10 22:06:04.814] [RBXClient] [debug] [acgplayerfan12121 (27820)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-10 22:06:04.815] [RBXClient] [trace] [acgplayerfan12121 (27820)]: Attaching in-game using translation module.
+[2026-08-10 22:06:04.816] [Xeno] [debug] Patched translation module @0x16095c4ac00
+[2026-08-10 22:06:05.007] [RBXClient] [trace] [acgplayerfan12121 (27820)]: Intercepted translation module @0x16095c4ac00
+[2026-08-10 22:06:05.041] [RBXClient] [trace] [acgplayerfan12121 (27820)][::CRefresh]: Client DataModel refreshed
+[2026-08-10 22:06:05.048] [RBXClient] [trace] [acgplayerfan12121 (27820)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-08-10 22:06:05.052] [RBXClient] [trace] [acgplayerfan12121 (27820)]: Attach ping received from client "acgplayerfan12121", This indicates everything was successful.
+[2026-08-10 22:06:11.297] [Execution] [warning] [27820]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-10 22:06:11.654] [Execution] [warning] [27820]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-10 22:06:12.022] [Execution] [warning] [27820]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-10 22:06:12.359] [Execution] [warning] [27820]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-10 22:06:25.259] [RBXClient] [trace] [acgplayerfan12121 (27820)][::PlayerRemoving]: Player leaving ping recieved. We have to reattach.
+[2026-08-10 22:06:25.259] [RBXClient] [trace] [acgplayerfan12121 (27820)][::PlayerRemoving]: DataModel is being loaded...
+[2026-08-10 22:06:25.318] [RBXClient] [trace] 	[acgplayerfan12121 (27820)][::PlayerRemoving]: DataModel was loaded successfully
+[2026-08-10 22:06:25.319] [RBXClient] [trace] [acgplayerfan12121 (27820)][::PlayerRemoving]: DataModel (LuaApp): 0x16095d13248
+[2026-08-10 22:06:25.319] [RBXClient] [info] [acgplayerfan12121 (27820)]: Waiting for you to enter a game...
+[2026-08-10 22:06:31.295] [RBXClient] [info] [acgplayerfan12121 (27820)]:  Game has loaded (yielding)
+[2026-08-10 22:06:31.295] [RBXClient] [trace] [acgplayerfan12121 (27820)]: Attaching in-game using translation module.
+[2026-08-10 22:06:31.496] [RBXClient] [trace] [acgplayerfan12121 (27820)]: Intercepted translation module @0x160c85367c0
+[2026-08-10 22:06:31.522] [RBXClient] [trace] [acgplayerfan12121 (27820)][::CRefresh]: Client DataModel refreshed
+[2026-08-10 22:06:31.532] [RBXClient] [trace] [acgplayerfan12121 (27820)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-08-10 22:06:31.537] [RBXClient] [trace] [acgplayerfan12121 (27820)]: Attach ping received from client "acgplayerfan12121", This indicates everything was successful.
+[2026-08-10 22:09:32.243] [RBXClient] [trace] [acgplayerfan12121 (27820)][::PlayerRemoving]: Player leaving ping recieved. We have to reattach.
+[2026-08-10 22:09:32.243] [RBXClient] [trace] [acgplayerfan12121 (27820)][::PlayerRemoving]: DataModel is being loaded...
+[2026-08-10 22:09:32.301] [RBXClient] [trace] 	[acgplayerfan12121 (27820)][::PlayerRemoving]: DataModel was loaded successfully
+[2026-08-10 22:09:32.303] [RBXClient] [trace] [acgplayerfan12121 (27820)][::PlayerRemoving]: DataModel (LuaApp): 0x16095d13248
+[2026-08-10 22:09:32.303] [RBXClient] [info] [acgplayerfan12121 (27820)]: Waiting for you to enter a game...
+[2026-08-10 22:12:23.187] [RBXClient] [info] [acgplayerfan12121 (27820)]:  Game has loaded (yielding)
+[2026-08-10 22:12:23.187] [RBXClient] [trace] [acgplayerfan12121 (27820)]: Attaching in-game using translation module.
+[2026-08-10 22:12:23.428] [RBXClient] [trace] [acgplayerfan12121 (27820)]: Intercepted translation module @0x160c89fcb80
+[2026-08-10 22:12:23.449] [RBXClient] [trace] [acgplayerfan12121 (27820)][::CRefresh]: Client DataModel refreshed
+[2026-08-10 22:12:23.457] [RBXClient] [trace] [acgplayerfan12121 (27820)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-08-10 22:12:23.465] [RBXClient] [trace] [acgplayerfan12121 (27820)]: Attach ping received from client "acgplayerfan12121", This indicates everything was successful.
+[2026-08-10 22:12:32.316] [Execution] [warning] [27820]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-10 22:12:35.692] [Execution] [error] [27820]: Failed to compile (this is a problem with your script): :1: Incomplete statement: expected assignment or a function call
+[2026-08-10 22:12:36.059] [Execution] [error] [27820]: Failed to compile (this is a problem with your script): :1: Incomplete statement: expected assignment or a function call
+[2026-08-10 22:12:36.410] [Execution] [error] [27820]: Failed to compile (this is a problem with your script): :1: Incomplete statement: expected assignment or a function call
+[2026-08-10 22:12:36.688] [Execution] [error] [27820]: Failed to compile (this is a problem with your script): :1: Incomplete statement: expected assignment or a function call
+[2026-08-10 22:12:37.018] [Execution] [error] [27820]: Failed to compile (this is a problem with your script): :1: Incomplete statement: expected assignment or a function call
+[2026-08-10 22:12:37.342] [Execution] [error] [27820]: Failed to compile (this is a problem with your script): :1: Incomplete statement: expected assignment or a function call
+[2026-08-10 22:12:37.678] [Execution] [error] [27820]: Failed to compile (this is a problem with your script): :1: Incomplete statement: expected assignment or a function call

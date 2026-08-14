@@ -1,0 +1,38 @@
+[2026-08-12 13:10:53.597] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-12 13:10:53.597] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-12 13:10:53.597] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-12_13-10-53.log
+[2026-08-12 13:10:53.599] [Xeno] [debug] Client Checker thread: 0x69174bece0
+[2026-08-12 13:10:53.599] [Xeno] [debug] Xeno Caching thread: 0x69174becd0
+[2026-08-12 13:10:53.599] [Xeno] [debug] WebSockets Cleaner thread: 0x69174becc0
+[2026-08-12 13:10:53.599] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-12 13:10:53.599] [Xeno] [debug] Xeno Server thread: 0x69174becb0
+[2026-08-12 13:10:53.600] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-12 13:10:53.600] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-12 13:10:53.613] [Xeno] [info] Creating new RBXClient: 31704
+[2026-08-12 13:10:53.613] [RBXClient] [info] [31704]: Initializing...
+[2026-08-12 13:10:53.613] [RBXClient] [info] [31704]: Version: version-d584fb6c717a43d9
+[2026-08-12 13:10:53.613] [Xeno] [debug] Created RBXClient instance @0x1f1956fd4b0
+[2026-08-12 13:10:53.613] [Xeno] [info] Successfully created RBXClient: 31704
+[2026-08-12 13:10:53.613] [RBXClient] [trace] [31704]: Attempting to retrieve RBXClient data...
+[2026-08-12 13:10:53.662] [RBXClient] [trace] [31704]: Successfully retrieved RBXClient data (Primary)
+[2026-08-12 13:10:53.662] [RBXClient] [debug] [31704]: Fetching DataModel...
+[2026-08-12 13:10:53.704] [RBXClient] [debug] [31704]: 	String: 0x1e39e3a1308
+[2026-08-12 13:10:53.704] [RBXClient] [debug] [31704]: 	RenderView: 0x1e3899a3880
+[2026-08-12 13:10:53.890] [RBXClient] [debug] [31704]: 3184 candidates found for the instruction
+[2026-08-12 13:10:53.894] [RBXClient] [debug] [31704]:  Instruction address: 0x1e3ce9ec40a
+[2026-08-12 13:10:53.894] [RBXClient] [debug] [31704]: Bytecode Patch Watcher thread: 0x691bcbf2e0
+[2026-08-12 13:10:53.895] [RBXClient] [debug] [31704]: DataModel (Ugc): 0x1e394c96248
+[2026-08-12 13:10:53.896] [RBXClient] [debug] [31704]: LocalPlayer: 0x1e3abd90080
+[2026-08-12 13:10:53.896] [RBXClient] [debug] [acgplayerfan12121 (31704)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-12 13:10:53.897] [RBXClient] [trace] [acgplayerfan12121 (31704)]: Attaching in-game using translation module.
+[2026-08-12 13:10:53.897] [Xeno] [debug] Patched translation module @0x1e39a90ac00
+[2026-08-12 13:10:54.119] [RBXClient] [trace] [acgplayerfan12121 (31704)]: Intercepted translation module @0x1e39a90ac00
+[2026-08-12 13:10:54.135] [RBXClient] [trace] [acgplayerfan12121 (31704)][::CRefresh]: Client DataModel refreshed
+[2026-08-12 13:10:54.146] [RBXClient] [trace] [acgplayerfan12121 (31704)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-08-12 13:10:54.148] [RBXClient] [trace] [acgplayerfan12121 (31704)]: Attach ping received from client "acgplayerfan12121", This indicates everything was successful.
+[2026-08-12 13:10:57.918] [Execution] [warning] [31704]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 13:10:58.194] [Execution] [warning] [31704]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 13:10:58.411] [Execution] [warning] [31704]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 13:10:58.624] [Execution] [warning] [31704]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 13:10:58.841] [Execution] [warning] [31704]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-12 13:11:05.078] [WebSocket] [error] [31704]: WebSocket returned error "(Unable to connect to echo.websocket.events on port 80, error: Hôte inconnu. )" for url 'ws://echo.websocket.events'

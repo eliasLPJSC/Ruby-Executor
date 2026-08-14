@@ -1,0 +1,41 @@
+[2026-08-12 12:34:18.673] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-12 12:34:18.673] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-12 12:34:18.673] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-12_12-34-18.log
+[2026-08-12 12:34:18.674] [Xeno] [debug] Client Checker thread: 0xa7c1c7ec20
+[2026-08-12 12:34:18.674] [Xeno] [debug] Xeno Caching thread: 0xa7c1c7ec10
+[2026-08-12 12:34:18.674] [Xeno] [debug] WebSockets Cleaner thread: 0xa7c1c7ec00
+[2026-08-12 12:34:18.675] [Xeno] [debug] Xeno Server thread: 0xa7c1c7ebf0
+[2026-08-12 12:34:18.675] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-12 12:34:18.675] [Cache] [warning] Failed to read cached client PID #0
+[2026-08-12 12:34:18.675] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-12 12:34:18.675] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-12 12:34:18.686] [Xeno] [info] Creating new RBXClient: 18800
+[2026-08-12 12:34:18.686] [RBXClient] [info] [18800]: Initializing...
+[2026-08-12 12:34:18.686] [RBXClient] [info] [18800]: Version: version-d584fb6c717a43d9
+[2026-08-12 12:34:18.686] [Xeno] [debug] Created RBXClient instance @0x2210e0887b0
+[2026-08-12 12:34:18.686] [Xeno] [info] Successfully created RBXClient: 18800
+[2026-08-12 12:34:18.686] [RBXClient] [trace] [18800]: Attempting to retrieve RBXClient data...
+[2026-08-12 12:34:18.724] [RBXClient] [trace] [18800]: Successfully retrieved RBXClient data (Primary)
+[2026-08-12 12:34:18.725] [RBXClient] [debug] [18800]: Fetching DataModel...
+[2026-08-12 12:34:18.760] [RBXClient] [debug] [18800]: 	String: 0x1a818622708
+[2026-08-12 12:34:18.760] [RBXClient] [debug] [18800]: 	RenderView: 0x1a809e43080
+[2026-08-12 12:34:19.040] [RBXClient] [debug] [18800]: 3313 candidates found for the instruction
+[2026-08-12 12:34:19.044] [RBXClient] [debug] [18800]:  Instruction address: 0x1a86a31c40a
+[2026-08-12 12:34:19.044] [RBXClient] [debug] [18800]: Bytecode Patch Watcher thread: 0xa7c5b7f680
+[2026-08-12 12:34:19.045] [RBXClient] [debug] [18800]: DataModel (Ugc): 0x1a812def248
+[2026-08-12 12:34:19.047] [RBXClient] [debug] [18800]: LocalPlayer: 0x1a82b4b0080
+[2026-08-12 12:34:19.047] [RBXClient] [debug] [acgplayerfan12121 (18800)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-12 12:34:19.048] [RBXClient] [trace] [acgplayerfan12121 (18800)]: Attaching in-game using translation module.
+[2026-08-12 12:34:19.048] [Xeno] [debug] Patched translation module @0x1a816c0ac00
+[2026-08-12 12:34:19.279] [RBXClient] [trace] [acgplayerfan12121 (18800)]: Intercepted translation module @0x1a816c0ac00
+[2026-08-12 12:34:19.298] [RBXClient] [trace] [acgplayerfan12121 (18800)][::CRefresh]: Client DataModel refreshed
+[2026-08-12 12:34:19.306] [RBXClient] [trace] [acgplayerfan12121 (18800)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-08-12 12:34:19.315] [RBXClient] [trace] [acgplayerfan12121 (18800)]: Attach ping received from client "acgplayerfan12121", This indicates everything was successful.
+[2026-08-12 12:34:24.157] [Execution] [error] [18800]: Failed to compile (this is a problem with your script): :3: Expected identifier when parsing expression, got Unicode character U+a0 (did you mean ' '?)
+[2026-08-12 12:34:29.897] [Execution] [error] [18800]: Failed to compile (this is a problem with your script): :3: Expected identifier when parsing expression, got Unicode character U+a0 (did you mean ' '?)
+[2026-08-12 12:34:35.551] [Execution] [error] [18800]: Failed to compile (this is a problem with your script): :3: Expected identifier when parsing expression, got Unicode character U+a0 (did you mean ' '?)
+[2026-08-12 12:35:08.628] [RBXClient] [trace] [acgplayerfan12121 (18800)][::PlayerRemoving]: Player leaving ping recieved. We have to reattach.
+[2026-08-12 12:35:08.628] [RBXClient] [trace] [acgplayerfan12121 (18800)][::PlayerRemoving]: DataModel is being loaded...
+[2026-08-12 12:35:08.689] [RBXClient] [trace] 	[acgplayerfan12121 (18800)][::PlayerRemoving]: DataModel was loaded successfully
+[2026-08-12 12:35:08.690] [RBXClient] [trace] [acgplayerfan12121 (18800)][::PlayerRemoving]: DataModel (LuaApp): 0x1a806b62648
+[2026-08-12 12:35:08.691] [RBXClient] [info] [acgplayerfan12121 (18800)]: Waiting for you to enter a game...

@@ -1,0 +1,30 @@
+[2026-08-11 19:03:01.848] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-11 19:03:01.848] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-11 19:03:01.848] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-11_19-03-01.log
+[2026-08-11 19:03:01.850] [Xeno] [debug] Client Checker thread: 0x3d2fbecc0
+[2026-08-11 19:03:01.850] [Xeno] [debug] Xeno Caching thread: 0x3d2fbecb0
+[2026-08-11 19:03:01.850] [Xeno] [debug] WebSockets Cleaner thread: 0x3d2fbeca0
+[2026-08-11 19:03:01.851] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-11 19:03:01.851] [Xeno] [debug] Xeno Server thread: 0x3d2fbec90
+[2026-08-11 19:03:01.851] [Cache] [info] Reattaching to cached client PID: 28316
+[2026-08-11 19:03:01.851] [Cache] [info] Loaded existing cache: 1 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 1 RBXClientInfos
+[2026-08-11 19:03:01.851] [Xeno] [info] Creating new RBXClient: 28316
+[2026-08-11 19:03:01.851] [RBXClient] [info] [28316]: Initializing...
+[2026-08-11 19:03:01.852] [RBXClient] [info] [28316]: Version: version-d584fb6c717a43d9
+[2026-08-11 19:03:01.852] [Xeno] [debug] Created RBXClient instance @0x15d156b30a0
+[2026-08-11 19:03:01.852] [Xeno] [info] Successfully created RBXClient: 28316
+[2026-08-11 19:03:01.852] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-11 19:03:01.852] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-11 19:03:01.852] [RBXClient] [trace] [28316]: Attempting to retrieve RBXClient data...
+[2026-08-11 19:03:01.906] [RBXClient] [trace] [28316]: Successfully retrieved RBXClient data (Primary)
+[2026-08-11 19:03:01.906] [RBXClient] [info] [28316]: RenderView retrieved from Cache: 0x20627253880
+[2026-08-11 19:03:02.033] [RBXClient] [debug] [28316]: 1316 candidates found for the instruction
+[2026-08-11 19:03:02.034] [RBXClient] [debug] [28316]:  Instruction address: 0x20514d3c40a
+[2026-08-11 19:03:02.034] [RBXClient] [debug] [28316]: Bytecode Patch Watcher thread: 0x3d3bbf430
+[2026-08-11 19:03:02.035] [RBXClient] [debug] [28316]: DataModel (LuaApp): 0x20621b22648
+[2026-08-11 19:03:02.036] [RBXClient] [debug] [28316]: LocalPlayer: 0x20621db6080
+[2026-08-11 19:03:02.036] [RBXClient] [debug] [acgplayerfan12121 (28316)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-11 19:03:02.037] [RBXClient] [info] [acgplayerfan12121 (28316)]: Waiting for you to enter a game...
+[2026-08-11 19:03:05.908] [Execution] [error] [28316]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-11 19:03:06.068] [Execution] [error] [28316]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-08-11 19:03:06.223] [Execution] [error] [28316]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh

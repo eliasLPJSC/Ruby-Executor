@@ -1,0 +1,20 @@
+[2026-08-11 20:19:18.146] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-11 20:19:18.146] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-11 20:19:18.146] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-11_20-19-18.log
+[2026-08-11 20:19:18.147] [Xeno] [debug] Client Checker thread: 0xdc22f7d5d0
+[2026-08-11 20:19:18.147] [Xeno] [debug] Xeno Caching thread: 0xdc22f7d5c0
+[2026-08-11 20:19:18.147] [Xeno] [debug] WebSockets Cleaner thread: 0xdc22f7d5b0
+[2026-08-11 20:19:18.147] [Xeno] [debug] Xeno Server thread: 0xdc22f7d5a0
+[2026-08-11 20:19:18.147] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-11 20:19:18.147] [Cache] [info] Reattaching to cached client PID: 30212
+[2026-08-11 20:19:18.148] [Cache] [info] Loaded existing cache: 1 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 0 RBXClientInfos
+[2026-08-11 20:19:18.148] [Xeno] [info] Creating new RBXClient: 30212
+[2026-08-11 20:19:18.148] [RBXClient] [info] [30212]: Initializing...
+[2026-08-11 20:19:18.148] [RBXClient] [info] [30212]: Version: version-d584fb6c717a43d9
+[2026-08-11 20:19:18.148] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-11 20:19:18.148] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-11 20:19:18.148] [Xeno] [debug] Created RBXClient instance @0x1ef15ac2ee0
+[2026-08-11 20:19:18.148] [Xeno] [info] Successfully created RBXClient: 30212
+[2026-08-11 20:19:18.148] [RBXClient] [trace] [30212]: Attempting to retrieve RBXClient data...
+[2026-08-11 20:19:18.193] [RBXClient] [trace] [30212]: Successfully retrieved RBXClient data (Primary)
+[2026-08-11 20:19:18.194] [RBXClient] [info] [30212]: Waiting for Client Window

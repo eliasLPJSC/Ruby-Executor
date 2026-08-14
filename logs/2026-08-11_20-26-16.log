@@ -1,0 +1,50 @@
+[2026-08-11 20:26:16.329] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-11 20:26:16.329] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-11 20:26:16.330] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-11_20-26-16.log
+[2026-08-11 20:26:16.331] [Xeno] [debug] Client Checker thread: 0xc85eb7e330
+[2026-08-11 20:26:16.331] [Xeno] [debug] Xeno Caching thread: 0xc85eb7e320
+[2026-08-11 20:26:16.331] [Xeno] [debug] WebSockets Cleaner thread: 0xc85eb7e310
+[2026-08-11 20:26:16.331] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-11 20:26:16.331] [Xeno] [debug] Xeno Server thread: 0xc85eb7e300
+[2026-08-11 20:26:16.331] [Cache] [info] Reattaching to cached client PID: 32652
+[2026-08-11 20:26:16.331] [Cache] [info] Loaded existing cache: 1 RBXClients, 0 RBXBytecode, 0 RBXMFlags, 0 RBXClientInfos
+[2026-08-11 20:26:16.331] [Xeno] [info] Creating new RBXClient: 32652
+[2026-08-11 20:26:16.331] [RBXClient] [info] [32652]: Initializing...
+[2026-08-11 20:26:16.331] [RBXClient] [info] [32652]: Version: version-d584fb6c717a43d9
+[2026-08-11 20:26:16.331] [Xeno] [debug] Created RBXClient instance @0x296955ba890
+[2026-08-11 20:26:16.331] [Xeno] [info] Successfully created RBXClient: 32652
+[2026-08-11 20:26:16.331] [RBXClient] [trace] [32652]: Attempting to retrieve RBXClient data...
+[2026-08-11 20:26:16.332] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-11 20:26:16.332] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-11 20:26:16.376] [RBXClient] [trace] [32652]: Successfully retrieved RBXClient data (Primary)
+[2026-08-11 20:26:16.377] [RBXClient] [info] [32652]: Waiting for Client Window
+[2026-08-11 20:26:16.490] [Execution] [error] [32652]: DataModel address is invalid
+[2026-08-11 20:26:16.492] [Execution] [error] [32652]: DataModel address is invalid
+[2026-08-11 20:26:16.644] [Execution] [error] [32652]: DataModel address is invalid
+[2026-08-11 20:26:16.644] [Execution] [error] [32652]: DataModel address is invalid
+[2026-08-11 20:26:16.798] [Execution] [error] [32652]: DataModel address is invalid
+[2026-08-11 20:26:16.798] [Execution] [error] [32652]: DataModel address is invalid
+[2026-08-11 20:26:20.072] [RBXClient] [info] [32652]: Client window is now available
+[2026-08-11 20:26:20.072] [RBXClient] [debug] [32652]: Fetching DataModel...
+[2026-08-11 20:26:20.110] [RBXClient] [debug] [32652]: 	String: 0x1d5b6e09508
+[2026-08-11 20:26:20.110] [RBXClient] [debug] [32652]: 	RenderView: 0x1d5b6ff3080
+[2026-08-11 20:26:20.223] [RBXClient] [debug] [32652]: 2780 candidates found for the instruction
+[2026-08-11 20:26:20.226] [RBXClient] [debug] [32652]:  Instruction address: 0x1d4a55fc40a
+[2026-08-11 20:26:20.226] [RBXClient] [debug] [32652]: Bytecode Patch Watcher thread: 0xc862ebf420
+[2026-08-11 20:26:20.226] [RBXClient] [info] [32652]: 	Waiting for DataModel...
+[2026-08-11 20:26:20.772] [RBXClient] [debug] [32652]: DataModel (LuaApp): 0x1d5b3c82648
+[2026-08-11 20:26:20.773] [RBXClient] [debug] [32652]: LocalPlayer: 0x1d5b82e4880
+[2026-08-11 20:26:20.773] [RBXClient] [debug] [acgplayerfan12121 (32652)]: LocalPlayer Name: 'acgplayerfan12121'
+[2026-08-11 20:26:20.774] [RBXClient] [info] [acgplayerfan12121 (32652)]: Waiting for you to enter a game...
+[2026-08-11 20:26:24.938] [RBXClient] [info] [acgplayerfan12121 (32652)]:  Game has loaded (yielding)
+[2026-08-11 20:26:24.938] [RBXClient] [trace] [acgplayerfan12121 (32652)]: Attaching in-game using translation module.
+[2026-08-11 20:26:24.938] [Xeno] [debug] Patched translation module @0x1d5c5738580
+[2026-08-11 20:26:25.110] [RBXClient] [trace] [acgplayerfan12121 (32652)]: Intercepted translation module @0x1d5c5738580
+[2026-08-11 20:26:25.138] [RBXClient] [trace] [acgplayerfan12121 (32652)][::CRefresh]: Client DataModel refreshed
+[2026-08-11 20:26:25.148] [RBXClient] [trace] [acgplayerfan12121 (32652)]: Attach ping received from client "acgplayerfan12121", This indicates everything was successful.
+[2026-08-11 20:26:49.623] [Execution] [warning] [32652]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-11 20:26:49.841] [Execution] [warning] [32652]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-11 20:26:54.303] [RBXClient] [trace] [acgplayerfan12121 (32652)][::BytecodePatchWatcherT]: Threshold reached. Workers failed to call restore (Automatically restoring to prevent crash)
+[2026-08-11 20:26:56.751] [RBXClient] [trace] [acgplayerfan12121 (32652)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-08-11 20:26:56.751] [Xeno] [info] Removed RBXClient: 32652
+[2026-08-11 20:27:01.763] [Xeno] [info] Cleaned up '32652' from InitializedClients

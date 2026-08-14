@@ -1,0 +1,24 @@
+[2026-08-11 18:15:04.954] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-11 18:15:04.955] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-11 18:15:04.955] [Xeno] [info] Log file: C:\Users\seif9\source\repos\Ruby Exec 1\Ruby Exec 1\bin\x64\Debug\net10.0-windows\logs\2026-08-11_18-15-04.log
+[2026-08-11 18:15:04.960] [Xeno] [debug] Client Checker thread: 0xf2703fed10
+[2026-08-11 18:15:04.960] [Xeno] [debug] Xeno Caching thread: 0xf2703fed00
+[2026-08-11 18:15:04.960] [Xeno] [debug] WebSockets Cleaner thread: 0xf2703fecf0
+[2026-08-11 18:15:04.960] [Cache] [info] Caching file: C:\Users\seif9\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-11 18:15:04.960] [Xeno] [debug] Xeno Server thread: 0xf2703fece0
+[2026-08-11 18:15:04.962] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-11 18:15:04.962] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-11 18:15:04.972] [Xeno] [info] Creating new RBXClient: 28768
+[2026-08-11 18:15:04.972] [RBXClient] [info] [28768]: Initializing...
+[2026-08-11 18:15:04.972] [RBXClient] [info] [28768]: Version: version-d584fb6c717a43d9
+[2026-08-11 18:15:04.973] [Xeno] [debug] Created RBXClient instance @0x27d1b41ef90
+[2026-08-11 18:15:04.973] [Xeno] [info] Successfully created RBXClient: 28768
+[2026-08-11 18:15:04.973] [RBXClient] [trace] [28768]: Attempting to retrieve RBXClient data...
+[2026-08-11 18:15:05.029] [RBXClient] [trace] [28768]: Successfully retrieved RBXClient data (Primary)
+[2026-08-11 18:15:05.030] [RBXClient] [info] [28768]: Waiting for Client Window
+[2026-08-11 18:15:09.009] [Execution] [error] [28768]: DataModel address is invalid
+[2026-08-11 18:15:09.168] [Execution] [error] [28768]: DataModel address is invalid
+[2026-08-11 18:15:09.320] [Execution] [error] [28768]: DataModel address is invalid
+[2026-08-11 18:15:15.059] [RBXClient] [critical] [28768]: Timeout (10s) exceeded while waiting for window
+[2026-08-11 18:15:15.260] [RBXClient] [trace] [[!] Failed (28768)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-08-11 18:15:15.260] [Xeno] [info] Removed RBXClient: 28768
